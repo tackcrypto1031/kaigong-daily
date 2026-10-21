@@ -1,0 +1,107 @@
+{
+  "v": 1,
+  "date": "2026-10-22",
+  "headline": {
+    "kicker": "精簡當道",
+    "title": "ponytail今日增2051星",
+    "deck": "讓程式代理先重用既有元件，再寫必要程式，並保留驗證與測試。",
+    "image": "img/2026-10-22.webp"
+  },
+  "repos": [
+    {
+      "rank": 1,
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "starsToday": 2051,
+      "starsTotal": 171517,
+      "language": "JavaScript",
+      "tagline": "讓 AI 先重用再寫新程式",
+      "summary": "為程式代理加入精簡開發準則，先檢查既有元件再實作；也能審查變更及整個專案，列出風險與修正優先序。",
+      "highlights": [
+        "優先重用既有元件",
+        "檢查變更波及範圍",
+        "保留必要驗證與測試"
+      ],
+      "comment": "老闆，少寫不是少檢查，先看看倉庫有沒有現成零件！"
+    },
+    {
+      "rank": 2,
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "starsToday": 1997,
+      "starsTotal": 36279,
+      "language": "JavaScript",
+      "tagline": "讓不同代理交叉驗證安全發現",
+      "summary": "以六階段流程盤點程式架構、追查安全疑點，再由獨立代理驗證，輸出可機器讀取的紀錄與報告；執行目標程式需沙箱。",
+      "highlights": [
+        "六階段安全稽核",
+        "獨立代理複核證據",
+        "區分確認與待驗證"
+      ],
+      "comment": "老闆，安全疑點先找另一位同事複核，別急著敲警鐘。"
+    },
+    {
+      "rank": 3,
+      "repo": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "starsToday": 1543,
+      "starsTotal": 101175,
+      "language": "TypeScript",
+      "tagline": "集中管理多個程式代理",
+      "summary": "讓不同程式代理各自在獨立 worktree 平行工作，集中比較修改、逐行回饋，也能透過手機查看進度。",
+      "highlights": [
+        "平行工作目錄",
+        "逐行回饋修改",
+        "手機追蹤進度"
+      ],
+      "comment": "老闆，大家分桌開工，收工再比較成果，才不會搶同一份檔案。"
+    },
+    {
+      "rank": 4,
+      "repo": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "starsToday": 1434,
+      "starsTotal": 131567,
+      "language": "Python",
+      "tagline": "把專案整理成可查詢知識圖",
+      "summary": "將程式碼與文件整理成知識圖，標示直接來源及推論關係；程式碼可在本機解析，文件與影音語意分析仍需模型。",
+      "highlights": [
+        "本機解析程式碼",
+        "標示關係來源",
+        "圖譜路徑查詢"
+      ],
+      "comment": "老闆，先看清楚誰連到誰，改一個零件才不會牽動整座島。"
+    },
+    {
+      "rank": 5,
+      "repo": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "starsToday": 1269,
+      "starsTotal": 219650,
+      "language": "TypeScript",
+      "tagline": "分開規劃與實作的程式代理",
+      "summary": "開源 AI 程式代理，可切換 build 開發與 plan 分析模式；plan 預設拒絕改檔，執行命令前會要求許可。",
+      "highlights": [
+        "規劃與實作分流",
+        "預設唯讀分析",
+        "複雜任務子代理"
+      ],
+      "comment": "老闆，先把施工圖看懂再開工，別讓小島邊蓋邊拆。"
+    }
+  ],
+  "quote": "少走冤枉路，也是一種進度。",
+  "source": {
+    "method": "GitHub Trending 八頁 AI 候選樣本，依頁面 stars today 排序；非全 GitHub 完整排名，亦非自行計算的 24 小時差值。",
+    "collectedAt": "2026-10-22T07:03:23.954987+08:00",
+    "pages": [
+      "https://github.com/trending?since=daily",
+      "https://github.com/trending/python?since=daily",
+      "https://github.com/trending/typescript?since=daily",
+      "https://github.com/trending/javascript?since=daily",
+      "https://github.com/trending/go?since=daily",
+      "https://github.com/trending/rust?since=daily",
+      "https://github.com/trending/shell?since=daily",
+      "https://github.com/trending/java?since=daily"
+    ]
+  }
+}
