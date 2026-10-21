@@ -1,0 +1,107 @@
+{
+  "v": 1,
+  "date": "2026-10-21",
+  "headline": {
+    "kicker": "求職助攻",
+    "title": "ai-job-search居首",
+    "deck": "用 Claude Code 評估職缺、改寫履歷，連面試也能先準備。",
+    "image": "img/2026-10-21.webp"
+  },
+  "repos": [
+    {
+      "rank": 1,
+      "repo": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "starsToday": 3861,
+      "starsTotal": 60825,
+      "language": "Python",
+      "tagline": "在本機運作的 AI 求職助手",
+      "summary": "以 Claude Code 串起職缺評估、履歷與求職信撰寫、面試準備；內建搜尋偏向丹麥，其他市場需調整。",
+      "highlights": [
+        "職缺適配評估",
+        "履歷與求職信客製化",
+        "面試準備"
+      ],
+      "comment": "老闆，履歷可以請 AI 打草稿，經歷可不能憑空加戲喔。"
+    },
+    {
+      "rank": 2,
+      "repo": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "starsToday": 2660,
+      "starsTotal": 12449,
+      "language": "Rust",
+      "tagline": "給 AI 代理的本機搜尋引擎",
+      "summary": "將程式碼、文件與日誌建立索引，提供全文、向量與混合搜尋及 MCP 介面，方便代理查找專案資料。",
+      "highlights": [
+        "單一 Rust 執行檔",
+        "全文與向量混合搜尋",
+        "MCP 搜尋介面"
+      ],
+      "comment": "老闆，先讓 AI 員工查到資料，再開工比較不會繞遠路。"
+    },
+    {
+      "rank": 3,
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "starsToday": 1712,
+      "starsTotal": 34378,
+      "language": "JavaScript",
+      "tagline": "讓程式代理執行分階段資安稽核",
+      "summary": "以獨立代理分工探索、驗證漏洞候選，再產出結構化紀錄；執行目標程式需沙箱，缺乏驗證就保留待查。",
+      "highlights": [
+        "六階段稽核流程",
+        "獨立代理交叉驗證",
+        "機器可讀稽核結果"
+      ],
+      "comment": "老闆，疑似漏洞先查證，別把每個警告都當成大災難。"
+    },
+    {
+      "rank": 4,
+      "repo": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "starsToday": 1565,
+      "starsTotal": 99860,
+      "language": "TypeScript",
+      "tagline": "並行管理多個程式代理的工作台",
+      "summary": "讓 Codex 等代理在各自的 Git worktree 開工，集中檢視修改，也能透過手機追蹤與遠端工作區派工。",
+      "highlights": [
+        "平行 Git worktree",
+        "手機追蹤代理進度",
+        "SSH 遠端工作區"
+      ],
+      "comment": "老闆，AI 員工各有工位，最後合併成果還是要把關喔。"
+    },
+    {
+      "rank": 5,
+      "repo": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "starsToday": 1240,
+      "starsTotal": 219011,
+      "language": "TypeScript",
+      "tagline": "開源 AI 程式開發代理",
+      "summary": "提供可修改程式的 build 與預設唯讀的 plan 模式，適合開發、探索程式庫及規劃變更；桌面版仍為測試版。",
+      "highlights": [
+        "開發與規劃模式切換",
+        "複雜任務子代理",
+        "終端與桌面介面"
+      ],
+      "comment": "老闆，先用規劃模式看懂專案，再動手改，小島比較安穩。"
+    }
+  ],
+  "quote": "把下一步做好，就是往前走。",
+  "source": {
+    "method": "GitHub Trending 八頁 AI 候選樣本，依頁面 stars today 排序；非全 GitHub 完整排名，亦非自行計算的 24 小時差值。",
+    "collectedAt": "2026-10-21T10:31:33+08:00",
+    "pages": [
+      "https://github.com/trending?since=daily",
+      "https://github.com/trending/python?since=daily",
+      "https://github.com/trending/typescript?since=daily",
+      "https://github.com/trending/javascript?since=daily",
+      "https://github.com/trending/go?since=daily",
+      "https://github.com/trending/rust?since=daily",
+      "https://github.com/trending/shell?since=daily",
+      "https://github.com/trending/java?since=daily"
+    ]
+  }
+}
