@@ -1,107 +1,93 @@
 {
   "v": 1,
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "headline": {
-    "kicker": "精簡當道",
-    "title": "ponytail今日增2051星",
-    "deck": "讓程式代理先重用既有元件，再寫必要程式，並保留驗證與測試。",
-    "image": "img/2026-10-22.webp"
+    "kicker": "稽核領跑",
+    "title": "安全稽核技能今日增2979星",
+    "deck": "Cloudflare 以獨立代理複核疑點，分清已確認與待驗證項目。"
   },
   "repos": [
     {
       "rank": 1,
-      "repo": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "starsToday": 2051,
-      "starsTotal": 171517,
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "starsToday": 2979,
+      "starsTotal": 39437,
       "language": "JavaScript",
-      "tagline": "讓 AI 先重用再寫新程式",
-      "summary": "為程式代理加入精簡開發準則，先檢查既有元件再實作；也能審查變更及整個專案，列出風險與修正優先序。",
+      "tagline": "讓獨立 AI 複核安全稽核結果",
+      "summary": "以多階段流程盤點攻擊面、尋找疑點，再交由獨立代理驗證；產出結構化報告，區分已確認、待驗證與排除的項目。",
       "highlights": [
-        "優先重用既有元件",
-        "檢查變更波及範圍",
-        "保留必要驗證與測試"
+        "攻擊面與覆蓋範圍盤點",
+        "獨立代理複核",
+        "三類判定結構化輸出"
       ],
-      "comment": "老闆，少寫不是少檢查，先看看倉庫有沒有現成零件！"
+      "comment": "老闆，先讓另一位員工驗證，別把每個疑點都當成漏洞。"
     },
     {
       "rank": 2,
-      "repo": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "starsToday": 1997,
-      "starsTotal": 36279,
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "starsToday": 1949,
+      "starsTotal": 173380,
       "language": "JavaScript",
-      "tagline": "讓不同代理交叉驗證安全發現",
-      "summary": "以六階段流程盤點程式架構、追查安全疑點，再由獨立代理驗證，輸出可機器讀取的紀錄與報告；執行目標程式需沙箱。",
+      "tagline": "先重用既有程式，再寫必要修改",
+      "summary": "讓程式代理先理解需求與現有元件，再做最小必要修改；也提供變更審查與全專案稽核，但不省略測試、安全及錯誤處理。",
       "highlights": [
-        "六階段安全稽核",
-        "獨立代理複核證據",
-        "區分確認與待驗證"
+        "優先重用既有元件",
+        "跨檔案變更審查",
+        "全專案風險排序"
       ],
-      "comment": "老闆，安全疑點先找另一位同事複核，別急著敲警鐘。"
+      "comment": "老闆，能用現成工具就別重造，省下力氣把測試補好。"
     },
     {
       "rank": 3,
       "repo": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
-      "starsToday": 1543,
-      "starsTotal": 101175,
+      "starsToday": 1694,
+      "starsTotal": 102703,
       "language": "TypeScript",
-      "tagline": "集中管理多個程式代理",
-      "summary": "讓不同程式代理各自在獨立 worktree 平行工作，集中比較修改、逐行回饋，也能透過手機查看進度。",
+      "tagline": "集中管理平行開發的 AI 員工",
+      "summary": "讓多個程式代理各自在獨立 worktree 工作，集中查看進度、比較結果及註解差異；也有手機端追蹤與遠端工作功能。",
       "highlights": [
-        "平行工作目錄",
-        "逐行回饋修改",
+        "獨立工作目錄",
+        "差異逐行註解",
         "手機追蹤進度"
       ],
-      "comment": "老闆，大家分桌開工，收工再比較成果，才不會搶同一份檔案。"
+      "comment": "老闆，先分好各自的工作區，多位員工才不會搶同一張桌子。"
     },
     {
       "rank": 4,
       "repo": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "starsToday": 1434,
-      "starsTotal": 131567,
+      "starsToday": 1407,
+      "starsTotal": 132887,
       "language": "Python",
-      "tagline": "把專案整理成可查詢知識圖",
-      "summary": "將程式碼與文件整理成知識圖，標示直接來源及推論關係；程式碼可在本機解析，文件與影音語意分析仍需模型。",
+      "tagline": "把程式與文件整理成知識圖譜",
+      "summary": "以本機 AST 解析程式，建立可查詢的跨檔關係圖，並標示直接來源與推論；文件及影音的語意處理仍需模型。",
       "highlights": [
-        "本機解析程式碼",
-        "標示關係來源",
-        "圖譜路徑查詢"
+        "本機解析程式",
+        "跨檔關係查詢",
+        "區分來源與推論"
       ],
-      "comment": "老闆，先看清楚誰連到誰，改一個零件才不會牽動整座島。"
+      "comment": "老闆，先查清楚誰依賴誰，改一處時才不會漏看另一端。"
     },
     {
       "rank": 5,
-      "repo": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "starsToday": 1269,
-      "starsTotal": 219650,
-      "language": "TypeScript",
-      "tagline": "分開規劃與實作的程式代理",
-      "summary": "開源 AI 程式代理，可切換 build 開發與 plan 分析模式；plan 預設拒絕改檔，執行命令前會要求許可。",
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "starsToday": 1096,
+      "starsTotal": 300849,
+      "language": "Shell",
+      "tagline": "可組合的工程與需求規劃技能集",
+      "summary": "提供需求釐清、規格拆解、測試驅動開發及程式審查等技能；可依專案調整，導入時先設定議題追蹤與文件位置。",
       "highlights": [
-        "規劃與實作分流",
-        "預設唯讀分析",
-        "複雜任務子代理"
+        "需求釐清",
+        "測試驅動開發",
+        "程式審查"
       ],
-      "comment": "老闆，先把施工圖看懂再開工，別讓小島邊蓋邊拆。"
+      "comment": "老闆，先把要做什麼講清楚，再派工比較不容易白忙。"
     }
   ],
-  "quote": "少走冤枉路，也是一種進度。",
-  "source": {
-    "method": "GitHub Trending 八頁 AI 候選樣本，依頁面 stars today 排序；非全 GitHub 完整排名，亦非自行計算的 24 小時差值。",
-    "collectedAt": "2026-10-22T07:03:23.954987+08:00",
-    "pages": [
-      "https://github.com/trending?since=daily",
-      "https://github.com/trending/python?since=daily",
-      "https://github.com/trending/typescript?since=daily",
-      "https://github.com/trending/javascript?since=daily",
-      "https://github.com/trending/go?since=daily",
-      "https://github.com/trending/rust?since=daily",
-      "https://github.com/trending/shell?since=daily",
-      "https://github.com/trending/java?since=daily"
-    ]
-  }
+  "quote": "先把需求說清楚，再把事情做好。",
+  "methodology": "GitHub Trending 八頁 AI 候選樣本；stars today 為頁面提供數值，非全 GitHub 完整排名或自行計算的24小時差值。"
 }
