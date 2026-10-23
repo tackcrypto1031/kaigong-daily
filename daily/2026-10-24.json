@@ -1,0 +1,94 @@
+{
+  "v": 1,
+  "date": "2026-10-24",
+  "headline": {
+    "kicker": "交叉驗證",
+    "title": "安全稽核技能今日增2706星",
+    "deck": "Cloudflare 用獨立代理複核安全疑點，保留驗證結果與覆蓋紀錄。",
+    "image": "img/2026-10-24.webp"
+  },
+  "repos": [
+    {
+      "rank": 1,
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "starsToday": 2706,
+      "starsTotal": 42053,
+      "language": "JavaScript",
+      "tagline": "以獨立代理複核程式安全疑點",
+      "summary": "分階段盤點攻擊面、搜尋漏洞疑點，再交給另一個代理驗證。以結構化紀錄區分已確認、待驗證與排除項目，適合程式碼安全稽核。",
+      "highlights": [
+        "攻擊面與覆蓋範圍盤點",
+        "獨立代理交叉驗證",
+        "結構化稽核報告"
+      ],
+      "comment": "老闆，找到疑點先別急著報喜，讓另一位員工再查一次。"
+    },
+    {
+      "rank": 2,
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "starsToday": 1870,
+      "starsTotal": 174769,
+      "language": "JavaScript",
+      "tagline": "讓程式代理先重用再動手寫",
+      "summary": "引導程式代理先找現有元件、標準函式庫與平台功能，再寫必要的程式。另提供變更審查與全專案稽核，但不以省程式碼為由省略測試或安全檢查。",
+      "highlights": [
+        "優先重用現有功能",
+        "審查變更影響範圍",
+        "全專案問題排序"
+      ],
+      "comment": "老闆，島上有現成工具就先用，別每次派工都重蓋一座工廠。"
+    },
+    {
+      "rank": 3,
+      "repo": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "starsToday": 1328,
+      "starsTotal": 133887,
+      "language": "Python",
+      "tagline": "把程式與文件連成可查詢圖譜",
+      "summary": "在本機解析程式語法樹，建立可查詢與追蹤路徑的知識圖譜，標示直接擷取或推論的關係。文件與影音的語意分析則需模型，適合梳理專案依賴。",
+      "highlights": [
+        "本機語法樹解析",
+        "關係來源標記",
+        "跨檔路徑查詢"
+      ],
+      "comment": "老闆，先看清模組怎麼串，找問題就不用滿島翻檔案了。"
+    },
+    {
+      "rank": 4,
+      "repo": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "starsToday": 1240,
+      "starsTotal": 18749,
+      "language": "Rust",
+      "tagline": "以政策限制 AI 代理執行權限",
+      "summary": "在隔離環境中執行代理，以政策管控檔案、系統呼叫與連線，僅對核准端點注入憑證。適合需要限制代理權限的團隊，須準備容器或虛擬化環境。",
+      "highlights": [
+        "核心層級隔離",
+        "連線政策檢查",
+        "政策變更驗證"
+      ],
+      "comment": "老闆，派工也要畫好範圍，別把整座島的鑰匙都交出去。"
+    },
+    {
+      "rank": 5,
+      "repo": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "starsToday": 1168,
+      "starsTotal": 43988,
+      "language": "Python",
+      "tagline": "Claude Code 圖解教學與範本",
+      "summary": "以循序教學、圖解與可複製範本，示範如何組合指令、記憶、技能、hooks 與子代理。適合已使用 Claude Code、想建立工作流程的開發者。",
+      "highlights": [
+        "循序學習路線",
+        "設定與腳本範本",
+        "自我測驗"
+      ],
+      "comment": "老闆，先挑一個常做的流程練習，別第一天就把整間公司自動化。"
+    }
+  ],
+  "quote": "少一點猜測，多一步驗證。",
+  "methodology": "GitHub Trending 八頁 AI 候選樣本；stars today 為頁面提供數值，非全 GitHub 完整排名或自行計算的24小時差值。"
+}
