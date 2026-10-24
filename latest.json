@@ -1,94 +1,104 @@
 {
   "v": 1,
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "headline": {
-    "kicker": "交叉驗證",
-    "title": "安全稽核技能今日增2706星",
-    "deck": "Cloudflare 用獨立代理複核安全疑點，保留驗證結果與覆蓋紀錄。",
-    "image": "img/2026-10-24.webp"
+    "kicker": "驗證為先",
+    "title": "安全稽核技能今日增2271星",
+    "deck": "Cloudflare 以獨立代理複核漏洞疑點，留下可追查的覆蓋與驗證紀錄。",
+    "image": "img/2026-10-25.webp"
   },
   "repos": [
     {
       "rank": 1,
       "repo": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "starsToday": 2706,
-      "starsTotal": 42053,
+      "starsToday": 2271,
+      "starsTotal": 44431,
       "language": "JavaScript",
-      "tagline": "以獨立代理複核程式安全疑點",
-      "summary": "分階段盤點攻擊面、搜尋漏洞疑點，再交給另一個代理驗證。以結構化紀錄區分已確認、待驗證與排除項目，適合程式碼安全稽核。",
+      "tagline": "用獨立代理驗證程式安全疑點",
+      "summary": "把安全稽核分成偵察、搜尋、驗證與報告等階段。每個疑點交由新的代理嘗試推翻，並保留覆蓋紀錄，適合需要可追查證據的程式碼審查。",
       "highlights": [
-        "攻擊面與覆蓋範圍盤點",
-        "獨立代理交叉驗證",
-        "結構化稽核報告"
+        "盤點信任邊界與覆蓋範圍",
+        "獨立代理複核疑點",
+        "結構化保存三種驗證結果"
       ],
-      "comment": "老闆，找到疑點先別急著報喜，讓另一位員工再查一次。"
+      "comment": "老闆，疑點先交叉檢查，別把猜測寫成已確認漏洞。"
     },
     {
       "rank": 2,
-      "repo": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "starsToday": 1870,
-      "starsTotal": 174769,
-      "language": "JavaScript",
-      "tagline": "讓程式代理先重用再動手寫",
-      "summary": "引導程式代理先找現有元件、標準函式庫與平台功能，再寫必要的程式。另提供變更審查與全專案稽核，但不以省程式碼為由省略測試或安全檢查。",
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "starsToday": 967,
+      "starsTotal": 302497,
+      "language": "Shell",
+      "tagline": "把工程實務拆成可組合技能",
+      "summary": "提供需求釐清、測試驅動開發、除錯與程式碼審查等技能。可依專案調整議題追蹤與文件位置，讓程式代理依可檢查的步驟工作。",
       "highlights": [
-        "優先重用現有功能",
-        "審查變更影響範圍",
-        "全專案問題排序"
+        "需求與術語先對齊",
+        "測試驅動開發與除錯",
+        "規格拆票及程式碼審查"
       ],
-      "comment": "老闆，島上有現成工具就先用，別每次派工都重蓋一座工廠。"
+      "comment": "老闆，先把需求問清楚，員工才不會忙著做錯功能。"
     },
     {
       "rank": 3,
-      "repo": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "starsToday": 1328,
-      "starsTotal": 133887,
-      "language": "Python",
-      "tagline": "把程式與文件連成可查詢圖譜",
-      "summary": "在本機解析程式語法樹，建立可查詢與追蹤路徑的知識圖譜，標示直接擷取或推論的關係。文件與影音的語意分析則需模型，適合梳理專案依賴。",
+      "repo": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "starsToday": 893,
+      "starsTotal": 19454,
+      "language": "Rust",
+      "tagline": "以政策限制自主代理的操作",
+      "summary": "讓代理在隔離環境執行，按政策限制檔案、系統呼叫與網路。憑證只加入送往核准端點的請求，適合需要控管代理權限的團隊。",
       "highlights": [
-        "本機語法樹解析",
-        "關係來源標記",
-        "跨檔路徑查詢"
+        "隔離沙盒",
+        "檔案與網路政策",
+        "核准端點才注入憑證"
       ],
-      "comment": "老闆，先看清模組怎麼串，找問題就不用滿島翻檔案了。"
+      "comment": "老闆，先畫好權限範圍，再讓員工放手去做。"
     },
     {
       "rank": 4,
-      "repo": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "starsToday": 1240,
-      "starsTotal": 18749,
-      "language": "Rust",
-      "tagline": "以政策限制 AI 代理執行權限",
-      "summary": "在隔離環境中執行代理，以政策管控檔案、系統呼叫與連線，僅對核准端點注入憑證。適合需要限制代理權限的團隊，須準備容器或虛擬化環境。",
+      "repo": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "starsToday": 777,
+      "starsTotal": 71462,
+      "language": "TypeScript",
+      "tagline": "把網頁動畫轉成可重製影片",
+      "summary": "將 HTML、CSS、媒體與可定位時間的動畫轉成 MP4。提供預覽、檢查與輸出工具，適合製作資料圖表、字幕及可重複使用的動態素材。",
       "highlights": [
-        "核心層級隔離",
-        "連線政策檢查",
-        "政策變更驗證"
+        "HTML 轉 MP4",
+        "動畫與音訊合成",
+        "預覽及內容檢查"
       ],
-      "comment": "老闆，派工也要畫好範圍，別把整座島的鑰匙都交出去。"
+      "comment": "老闆，固定版型做成影片模板，下次換資料就少搬幾次字。"
     },
     {
       "rank": 5,
-      "repo": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "starsToday": 1168,
-      "starsTotal": 43988,
-      "language": "Python",
-      "tagline": "Claude Code 圖解教學與範本",
-      "summary": "以循序教學、圖解與可複製範本，示範如何組合指令、記憶、技能、hooks 與子代理。適合已使用 Claude Code、想建立工作流程的開發者。",
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "starsToday": 776,
+      "starsTotal": 175503,
+      "language": "JavaScript",
+      "tagline": "讓程式代理先重用再新增",
+      "summary": "引導代理先讀懂程式流程，優先重用現有程式、標準函式庫與平台功能。另提供差異審查和全專案稽核，不以縮短程式為由省略安全檢查。",
       "highlights": [
-        "循序學習路線",
-        "設定與腳本範本",
-        "自我測驗"
+        "優先重用現有功能",
+        "差異審查",
+        "全專案稽核"
       ],
-      "comment": "老闆，先挑一個常做的流程練習，別第一天就把整間公司自動化。"
+      "comment": "老闆，先翻翻工具箱，別又派員工重造同一個輪子。"
     }
   ],
-  "quote": "少一點猜測，多一步驗證。",
-  "methodology": "GitHub Trending 八頁 AI 候選樣本；stars today 為頁面提供數值，非全 GitHub 完整排名或自行計算的24小時差值。"
+  "quote": "先查清楚，再放心交付。",
+  "method": "GitHub Trending 八頁候選樣本，以頁面提供的 stars today 排序，非全 GitHub 完整排名，亦非自行計算的 24 小時差值。",
+  "sources": [
+    "https://github.com/trending?since=daily",
+    "https://github.com/trending/python?since=daily",
+    "https://github.com/trending/typescript?since=daily",
+    "https://github.com/trending/javascript?since=daily",
+    "https://github.com/trending/go?since=daily",
+    "https://github.com/trending/rust?since=daily",
+    "https://github.com/trending/shell?since=daily",
+    "https://github.com/trending/java?since=daily"
+  ]
 }

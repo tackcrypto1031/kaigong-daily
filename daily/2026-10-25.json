@@ -1,0 +1,104 @@
+{
+  "v": 1,
+  "date": "2026-10-25",
+  "headline": {
+    "kicker": "驗證為先",
+    "title": "安全稽核技能今日增2271星",
+    "deck": "Cloudflare 以獨立代理複核漏洞疑點，留下可追查的覆蓋與驗證紀錄。",
+    "image": "img/2026-10-25.webp"
+  },
+  "repos": [
+    {
+      "rank": 1,
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "starsToday": 2271,
+      "starsTotal": 44431,
+      "language": "JavaScript",
+      "tagline": "用獨立代理驗證程式安全疑點",
+      "summary": "把安全稽核分成偵察、搜尋、驗證與報告等階段。每個疑點交由新的代理嘗試推翻，並保留覆蓋紀錄，適合需要可追查證據的程式碼審查。",
+      "highlights": [
+        "盤點信任邊界與覆蓋範圍",
+        "獨立代理複核疑點",
+        "結構化保存三種驗證結果"
+      ],
+      "comment": "老闆，疑點先交叉檢查，別把猜測寫成已確認漏洞。"
+    },
+    {
+      "rank": 2,
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "starsToday": 967,
+      "starsTotal": 302497,
+      "language": "Shell",
+      "tagline": "把工程實務拆成可組合技能",
+      "summary": "提供需求釐清、測試驅動開發、除錯與程式碼審查等技能。可依專案調整議題追蹤與文件位置，讓程式代理依可檢查的步驟工作。",
+      "highlights": [
+        "需求與術語先對齊",
+        "測試驅動開發與除錯",
+        "規格拆票及程式碼審查"
+      ],
+      "comment": "老闆，先把需求問清楚，員工才不會忙著做錯功能。"
+    },
+    {
+      "rank": 3,
+      "repo": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "starsToday": 893,
+      "starsTotal": 19454,
+      "language": "Rust",
+      "tagline": "以政策限制自主代理的操作",
+      "summary": "讓代理在隔離環境執行，按政策限制檔案、系統呼叫與網路。憑證只加入送往核准端點的請求，適合需要控管代理權限的團隊。",
+      "highlights": [
+        "隔離沙盒",
+        "檔案與網路政策",
+        "核准端點才注入憑證"
+      ],
+      "comment": "老闆，先畫好權限範圍，再讓員工放手去做。"
+    },
+    {
+      "rank": 4,
+      "repo": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "starsToday": 777,
+      "starsTotal": 71462,
+      "language": "TypeScript",
+      "tagline": "把網頁動畫轉成可重製影片",
+      "summary": "將 HTML、CSS、媒體與可定位時間的動畫轉成 MP4。提供預覽、檢查與輸出工具，適合製作資料圖表、字幕及可重複使用的動態素材。",
+      "highlights": [
+        "HTML 轉 MP4",
+        "動畫與音訊合成",
+        "預覽及內容檢查"
+      ],
+      "comment": "老闆，固定版型做成影片模板，下次換資料就少搬幾次字。"
+    },
+    {
+      "rank": 5,
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "starsToday": 776,
+      "starsTotal": 175503,
+      "language": "JavaScript",
+      "tagline": "讓程式代理先重用再新增",
+      "summary": "引導代理先讀懂程式流程，優先重用現有程式、標準函式庫與平台功能。另提供差異審查和全專案稽核，不以縮短程式為由省略安全檢查。",
+      "highlights": [
+        "優先重用現有功能",
+        "差異審查",
+        "全專案稽核"
+      ],
+      "comment": "老闆，先翻翻工具箱，別又派員工重造同一個輪子。"
+    }
+  ],
+  "quote": "先查清楚，再放心交付。",
+  "method": "GitHub Trending 八頁候選樣本，以頁面提供的 stars today 排序，非全 GitHub 完整排名，亦非自行計算的 24 小時差值。",
+  "sources": [
+    "https://github.com/trending?since=daily",
+    "https://github.com/trending/python?since=daily",
+    "https://github.com/trending/typescript?since=daily",
+    "https://github.com/trending/javascript?since=daily",
+    "https://github.com/trending/go?since=daily",
+    "https://github.com/trending/rust?since=daily",
+    "https://github.com/trending/shell?since=daily",
+    "https://github.com/trending/java?since=daily"
+  ]
+}
