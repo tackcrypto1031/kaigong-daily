@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "date": "2026-10-26",
+  "headline": {
+    "kicker": "安全稽核",
+    "title": "Cloudflare安全稽核技能居首",
+    "deck": "分工搜尋漏洞，再由獨立代理驗證與複核，產出可查證的結構化報告。",
+    "image": "img/2026-10-26.webp"
+  },
+  "repos": [
+    {
+      "rank": 1,
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "starsToday": 2874,
+      "starsTotal": 46783,
+      "language": "JavaScript",
+      "tagline": "讓程式代理分工查核安全漏洞",
+      "summary": "以六階段流程安排獨立代理盤點架構、搜尋漏洞、驗證候選與複核紀錄，再產出結構化發現及報告。",
+      "highlights": [
+        "六階段安全稽核",
+        "獨立代理交叉驗證",
+        "記錄覆蓋範圍與待查項目"
+      ],
+      "comment": "老闆，找到漏洞還要換人驗證，這份報告比較有底氣。"
+    },
+    {
+      "rank": 2,
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "starsToday": 1588,
+      "starsTotal": 86693,
+      "language": "Python",
+      "tagline": "在本機整合語音生成與影片配音",
+      "summary": "整合聲音複製、聲音設計、影片配音、語音轉文字與有聲書製作；可選不同引擎，模型授權須另外確認。",
+      "highlights": [
+        "本機語音工作流程",
+        "影片定時配音",
+        "提供 API 與 MCP"
+      ],
+      "comment": "老闆，配音工具箱很齊，聲音授權也別忘了先確認。"
+    },
+    {
+      "rank": 3,
+      "repo": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "starsToday": 1359,
+      "starsTotal": 33650,
+      "language": "CSS",
+      "tagline": "讓代理製作有辨識度的網頁",
+      "summary": "提供四十八種視覺主題，也可依需求客製；用真實瀏覽器檢查版面與常見設計問題，再由獨立代理審查。",
+      "highlights": [
+        "四十八種視覺主題",
+        "瀏覽器檢查",
+        "支援改版與稽核"
+      ],
+      "comment": "老闆，網頁別再長得像同一套模板，這次換個面貌。"
+    },
+    {
+      "rank": 4,
+      "repo": "experientiallabs/experiential",
+      "url": "https://github.com/experientiallabs/experiential",
+      "starsToday": 1224,
+      "starsTotal": 12822,
+      "language": "Python",
+      "tagline": "統一管理代理模型路由與預算",
+      "summary": "用相容 OpenAI 的 API 串接代管、自備金鑰與本機模型，管理使用權限和花費，並以執行紀錄優化路由。",
+      "highlights": [
+        "統一模型入口",
+        "權限與預算控管",
+        "依紀錄優化路由"
+      ],
+      "comment": "老闆，模型越接越多時，先把入口和預算管好。"
+    },
+    {
+      "rank": 5,
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "starsToday": 1113,
+      "starsTotal": 87617,
+      "language": "Rust",
+      "tagline": "用設計指令打磨代理生成的介面",
+      "summary": "提供二十四個設計指令、瀏覽器即時迭代與六十二項規則檢查，協助調整版面、字體、動態效果及無障礙品質。",
+      "highlights": [
+        "二十四個設計指令",
+        "即時視覺迭代",
+        "六十二項規則"
+      ],
+      "comment": "老闆，介面能用之後，還有一輪細節值得好好打磨。"
+    }
+  ],
+  "quote": "多一道查證，少一份僥倖。"
+}
