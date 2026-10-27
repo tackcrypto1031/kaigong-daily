@@ -1,93 +1,93 @@
 {
   "v": 1,
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "headline": {
-    "kicker": "聲音工坊",
-    "title": "VoiceStudio整合本機語音製作",
-    "deck": "聲音複製、影片配音與轉錄集中管理，串接本機模型及工作流程。",
-    "image": "img/2026-10-27.webp"
+    "kicker": "設計升級",
+    "title": "hallmark 讓網頁擺脫制式感",
+    "deck": "用五十種材質主題引導程式代理設計網頁，再以瀏覽器檢查不同寬度。",
+    "image": "img/2026-10-28.webp"
   },
   "repos": [
     {
       "rank": 1,
-      "repo": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "starsToday": 2292,
-      "starsTotal": 89111,
-      "tagline": "本機語音創作工作室",
-      "summary": "整合聲音複製、聲線設計、影片配音、聽寫、轉錄與有聲書製作，可在本機執行，並以 API 與 MCP 串接其他工作流程。",
+      "repo": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "starsToday": 2859,
+      "starsTotal": 38902,
+      "language": "CSS",
+      "tagline": "讓程式代理做出有個性的網頁",
+      "summary": "提供五十種材質主題與設計準則，支援網頁重設計及稽核，並在真實瀏覽器檢查多種寬度的呈現。",
       "highlights": [
-        "聲音複製與聲線設計",
-        "影片配音與語音轉錄",
-        "本機模型管理"
+        "五十種材質主題",
+        "八種寬度瀏覽器檢查",
+        "可重設計或只做稽核"
       ],
-      "comment": "老闆，配音工具先排好，聲音授權和模型條款也別漏看！",
-      "language": "Python"
+      "comment": "老闆，頁面別再撞臉了，先挑個適合我們的風格！"
     },
     {
       "rank": 2,
-      "repo": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "starsToday": 2235,
-      "starsTotal": 36175,
-      "tagline": "讓生成網頁少一點模板味",
-      "summary": "供程式代理使用的設計技能，提供多種視覺主題、自訂設計、頁面改版與稽核，並在瀏覽器檢查響應式與無障礙等品質。",
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "starsToday": 2601,
+      "starsTotal": 91248,
+      "language": "Python",
+      "tagline": "在自己的裝置打造語音工作室",
+      "summary": "整合聲音複製、配音、聽寫、轉錄與有聲書製作，支援模型管理及可重用流程；聲音與模型授權須分別確認。",
       "highlights": [
-        "四十八種視覺主題",
-        "支援改版與設計稽核",
-        "瀏覽器多尺寸檢查"
+        "整合配音與轉錄",
+        "提供本機 API 與 MCP",
+        "可重用配方與監看資料夾"
       ],
-      "comment": "老闆，網站別只換顏色，先讓每一頁真的能完成任務！",
-      "language": "CSS"
+      "comment": "老闆，配音能加速，但複製別人的聲音要先獲同意喔！"
     },
     {
       "rank": 3,
-      "repo": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "starsToday": 2069,
-      "starsTotal": 48482,
-      "tagline": "讓程式代理分工查資安",
-      "summary": "以六階段流程協調獨立代理，從架構盤點、漏洞搜尋到候選驗證與報告，並區分已確認、待驗證及已排除的發現。",
+      "repo": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "starsToday": 1702,
+      "starsTotal": 117280,
+      "language": "Python",
+      "tagline": "多個代理分工研究交易決策",
+      "summary": "讓基本面、新聞、情緒與技術分析代理分工，再由研究辯論及風險管理整合交易判斷，定位為研究框架。",
       "highlights": [
-        "分工搜尋與獨立驗證",
-        "追蹤檢查覆蓋範圍",
-        "輸出分類報告"
+        "分析代理並行工作",
+        "多空研究角色辯論",
+        "提供回測與風險管理"
       ],
-      "comment": "老闆，疑點先驗證再下結論，別把每聲警報都當漏洞！",
-      "language": "JavaScript"
+      "comment": "老闆，先拿來研究就好，可別把代理的判斷當獲利保證！"
     },
     {
       "rank": 4,
-      "repo": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "starsToday": 1551,
-      "starsTotal": 89116,
-      "tagline": "替程式代理補上設計指南",
-      "summary": "提供設計技能、二十四種指令與瀏覽器視覺迭代流程，涵蓋版面、字體、動效、無障礙與響應式檢查，協助改善前端品質。",
+      "repo": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "starsToday": 1623,
+      "starsTotal": 104884,
+      "language": "Python",
+      "tagline": "讓代理統一搜尋與讀取多平台",
+      "summary": "以命令列整合網頁、影片字幕與多個平台的搜尋閱讀工具，讓代理取得資料；部分功能需登入或設定外部服務。",
       "highlights": [
-        "設計稽核與潤飾",
-        "瀏覽器視覺迭代",
-        "六十二條檢測規則"
+        "整合網頁與影片字幕",
+        "統一命令列入口",
+        "部分平台需登入設定"
       ],
-      "comment": "老闆，功能跑得動以後，留點時間把介面整理漂亮！",
-      "language": "Rust"
+      "comment": "老闆，資料入口變集中，平台權限還是得一項項確認！"
     },
     {
       "rank": 5,
-      "repo": "AgriciDaniel/claude-seo",
-      "url": "https://github.com/AgriciDaniel/claude-seo",
-      "starsToday": 1539,
-      "starsTotal": 22115,
-      "tagline": "在開發工具裡做搜尋優化",
-      "summary": "供 Claude Code 使用的 SEO 外掛，檢查技術設定、內容品質、結構化資料與 AI 搜尋可讀性，提供按重要性排序的改善建議。",
+      "repo": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "starsToday": 1587,
+      "starsTotal": 45766,
+      "language": "Python",
+      "tagline": "把教材、練習與家教串在一起",
+      "summary": "將問答、解題、測驗生成與學習路徑整合到同一工作區，串接知識庫、筆記及題庫，支援有來源的影片學習。",
       "highlights": [
-        "技術與內容檢查",
-        "結構化資料驗證",
-        "改善建議排序"
+        "問答與測驗共用脈絡",
+        "支援多種知識檢索引擎",
+        "影片字幕搭配學習筆記"
       ],
-      "comment": "老闆，先把網站的基本功補齊，排名可不是按一下就保證！",
-      "language": "Python"
+      "comment": "老闆，教材終於不用東翻西找，讀完記得真的做練習！"
     }
   ],
-  "quote": "工具備齊，也要把品質顧好。"
+  "quote": "先定方向，再把細節做好。"
 }
