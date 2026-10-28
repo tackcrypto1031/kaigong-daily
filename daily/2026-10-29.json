@@ -1,0 +1,92 @@
+{
+  "v": 1,
+  "date": "2026-10-29",
+  "headline": {
+    "kicker": "陪你學會",
+    "title": "DeepTutor 把教材變成專屬家教",
+    "deck": "整合教材知識庫、解題與測驗，搭配視覺化說明和個人化學習路徑。",
+    "image": "img/2026-10-29.webp"
+  },
+  "repos": [
+    {
+      "rank": 1,
+      "repo": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "starsToday": 2376,
+      "starsTotal": 47886,
+      "language": "Python",
+      "tagline": "把教材變成個人化學習空間",
+      "summary": "整合教材知識庫、問答、解題、測驗與視覺化說明，能建立學習路徑，並把筆記和練習放在同一個工作空間。",
+      "highlights": [
+        "教材知識庫支援問答",
+        "產生測驗與視覺化說明",
+        "建立個人化學習路徑"
+      ],
+      "comment": "老闆，資料別只收藏，讓它陪你把難題真的學會！"
+    },
+    {
+      "rank": 2,
+      "repo": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "starsToday": 2109,
+      "starsTotal": 40638,
+      "language": "CSS",
+      "tagline": "替程式代理補上網頁設計準則",
+      "summary": "提供五十種材質主題與設計檢查，支援新頁面、既有網站重設計和稽核，並用真實瀏覽器檢視不同寬度。",
+      "highlights": [
+        "五十種材質主題",
+        "八種寬度瀏覽器檢查",
+        "可重設計或只做稽核"
+      ],
+      "comment": "老闆，網頁要有自己的樣子，這套可以幫忙打磨！"
+    },
+    {
+      "rank": 3,
+      "repo": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "starsToday": 1938,
+      "starsTotal": 11049,
+      "tagline": "從需求到視覺規劃的設計技能",
+      "summary": "收集給程式代理使用的設計技能，目前提供形象頁製作流程，涵蓋需求提問、頁面結構、轉換文案與完整視覺系統。",
+      "highlights": [
+        "先釐清需求",
+        "規劃頁面與文案",
+        "統整字體間距動態"
+      ],
+      "comment": "老闆，先想清楚頁面要做什麼，再讓代理動手吧！"
+    },
+    {
+      "rank": 4,
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "starsToday": 1831,
+      "starsTotal": 92916,
+      "language": "Python",
+      "tagline": "在本機打造語音與配音工作室",
+      "summary": "整合聲音複製、聲音設計、影片配音、語音輸入、轉錄與有聲書製作，可在本機管理模型與處理語音工作。",
+      "highlights": [
+        "聲音複製與設計",
+        "影片配音與轉錄",
+        "本機管理語音模型"
+      ],
+      "comment": "老闆，配音工作可以集中處理，聲音授權也別忘了！"
+    },
+    {
+      "rank": 5,
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "starsToday": 1471,
+      "starsTotal": 92518,
+      "language": "Rust",
+      "tagline": "用設計指令打磨代理產出的介面",
+      "summary": "提供二十四個設計指令與六十二條確定性檢查規則，涵蓋版面、字體、無障礙與細節調整，支援瀏覽器內反覆檢視。",
+      "highlights": [
+        "二十四個設計指令",
+        "六十二條檢查規則",
+        "瀏覽器內反覆調整"
+      ],
+      "comment": "老闆，功能做好再巡一輪細節，介面才不會漏氣！"
+    }
+  ],
+  "quote": "把知識用起來，才算真的帶走。"
+}
