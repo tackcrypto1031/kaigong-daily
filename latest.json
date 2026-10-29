@@ -1,92 +1,92 @@
 {
   "v": 1,
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "headline": {
-    "kicker": "陪你學會",
-    "title": "DeepTutor 把教材變成專屬家教",
-    "deck": "整合教材知識庫、解題與測驗，搭配視覺化說明和個人化學習路徑。",
-    "image": "img/2026-10-29.webp"
+    "kicker": "設計眼光",
+    "title": "Impeccable替介面細修",
+    "deck": "為程式代理提供設計指令、介面審查與規則檢查，改善視覺及使用體驗",
+    "image": "img/2026-10-30.webp"
   },
   "repos": [
     {
       "rank": 1,
-      "repo": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "starsToday": 2376,
-      "starsTotal": 47886,
-      "language": "Python",
-      "tagline": "把教材變成個人化學習空間",
-      "summary": "整合教材知識庫、問答、解題、測驗與視覺化說明，能建立學習路徑，並把筆記和練習放在同一個工作空間。",
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "starsToday": 2881,
+      "starsTotal": 95214,
+      "language": "Rust",
+      "tagline": "替程式代理補上設計眼光",
+      "summary": "為程式代理提供介面設計指令，可調整視覺、審查使用體驗與無障礙問題，並用規則偵測制式化設計。",
       "highlights": [
-        "教材知識庫支援問答",
-        "產生測驗與視覺化說明",
-        "建立個人化學習路徑"
+        "介面潤飾與設計審查",
+        "無障礙與效能檢查",
+        "規則偵測常見設計問題"
       ],
-      "comment": "老闆，資料別只收藏，讓它陪你把難題真的學會！"
+      "comment": "老闆，頁面能跑只是起點，讓它順眼也得驗收喔。"
     },
     {
       "rank": 2,
-      "repo": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "starsToday": 2109,
-      "starsTotal": 40638,
-      "language": "CSS",
-      "tagline": "替程式代理補上網頁設計準則",
-      "summary": "提供五十種材質主題與設計檢查，支援新頁面、既有網站重設計和稽核，並用真實瀏覽器檢視不同寬度。",
+      "repo": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "starsToday": 1926,
+      "starsTotal": 49939,
+      "language": "Python",
+      "tagline": "把教材變成個人學習工作區",
+      "summary": "結合知識庫、解題、測驗生成與研究的學習工作區，可沿用教材與筆記，搭配視覺化及熟練度練習。",
       "highlights": [
-        "五十種材質主題",
-        "八種寬度瀏覽器檢查",
-        "可重設計或只做稽核"
+        "知識庫與筆記共用",
+        "解題與測驗生成",
+        "影片學習與進度保存"
       ],
-      "comment": "老闆，網頁要有自己的樣子，這套可以幫忙打磨！"
+      "comment": "老闆，教材先整理好，這回別只收藏不練習啦。"
     },
     {
       "rank": 3,
-      "repo": "elayadesign/ai-design-skills",
-      "url": "https://github.com/elayadesign/ai-design-skills",
-      "starsToday": 1938,
-      "starsTotal": 11049,
-      "tagline": "從需求到視覺規劃的設計技能",
-      "summary": "收集給程式代理使用的設計技能，目前提供形象頁製作流程，涵蓋需求提問、頁面結構、轉換文案與完整視覺系統。",
+      "repo": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "starsToday": 1352,
+      "starsTotal": 56185,
+      "language": "Python",
+      "tagline": "讓代理保存並運用長期記憶",
+      "summary": "提供代理記憶系統，透過儲存、檢索與反思操作處理資訊，結合語意、關鍵字、圖譜及時間檢索。",
       "highlights": [
-        "先釐清需求",
-        "規劃頁面與文案",
-        "統整字體間距動態"
+        "長期記憶管理",
+        "四種檢索策略",
+        "記憶反思操作"
       ],
-      "comment": "老闆，先想清楚頁面要做什麼，再讓代理動手吧！"
+      "comment": "老闆，重要交代留進記憶庫，下次就少重講一遍。"
     },
     {
       "rank": 4,
-      "repo": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "starsToday": 1831,
-      "starsTotal": 92916,
-      "language": "Python",
-      "tagline": "在本機打造語音與配音工作室",
-      "summary": "整合聲音複製、聲音設計、影片配音、語音輸入、轉錄與有聲書製作，可在本機管理模型與處理語音工作。",
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "starsToday": 1190,
+      "starsTotal": 7424,
+      "language": "TypeScript",
+      "tagline": "用聊天介面指揮多個代理",
+      "summary": "本機優先的開源聊天應用，可連接 Claude、Codex 等代理，為機器人配置模型、電腦環境與應用連線。",
       "highlights": [
-        "聲音複製與設計",
-        "影片配音與轉錄",
-        "本機管理語音模型"
+        "多代理聊天介面",
+        "本機優先儲存",
+        "可接雲端桌面"
       ],
-      "comment": "老闆，配音工作可以集中處理，聲音授權也別忘了！"
+      "comment": "老闆，分工可以多開幾位，關鍵操作還是要過目喔。"
     },
     {
       "rank": 5,
-      "repo": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "starsToday": 1471,
-      "starsTotal": 92518,
-      "language": "Rust",
-      "tagline": "用設計指令打磨代理產出的介面",
-      "summary": "提供二十四個設計指令與六十二條確定性檢查規則，涵蓋版面、字體、無障礙與細節調整，支援瀏覽器內反覆檢視。",
+      "repo": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "starsToday": 1178,
+      "starsTotal": 12083,
+      "tagline": "給程式工具使用的設計技能",
+      "summary": "收集給 AI 程式工具使用的設計技能，目前提供從需求提問、頁面架構到文案與視覺系統的到達頁設計流程。",
       "highlights": [
-        "二十四個設計指令",
-        "六十二條檢查規則",
-        "瀏覽器內反覆調整"
+        "到達頁設計流程",
+        "需求與文案規劃",
+        "可調整視覺規則"
       ],
-      "comment": "老闆，功能做好再巡一輪細節，介面才不會漏氣！"
+      "comment": "老闆，先說清楚頁面要做什麼，再請工具動手裝潢。"
     }
   ],
-  "quote": "把知識用起來，才算真的帶走。"
+  "quote": "八頁榜單，看見工具新點子"
 }
