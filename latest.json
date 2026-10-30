@@ -1,92 +1,94 @@
 {
   "v": 1,
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "headline": {
-    "kicker": "設計眼光",
-    "title": "Impeccable替介面細修",
-    "deck": "為程式代理提供設計指令、介面審查與規則檢查，改善視覺及使用體驗",
-    "image": "img/2026-10-30.webp"
+    "kicker": "設計打磨",
+    "title": "impeccable替介面補上設計感",
+    "deck": "提供設計指令、品質稽核與規則偵測，協助程式代理修整介面。",
+    "image": "img/2026-10-31.webp"
   },
   "repos": [
     {
       "rank": 1,
       "repo": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
-      "starsToday": 2881,
-      "starsTotal": 95214,
+      "starsToday": 2299,
+      "starsTotal": 96976,
       "language": "Rust",
-      "tagline": "替程式代理補上設計眼光",
-      "summary": "為程式代理提供介面設計指令，可調整視覺、審查使用體驗與無障礙問題，並用規則偵測制式化設計。",
+      "tagline": "替程式代理補上設計判斷",
+      "summary": "提供介面設計指令、體驗評論與品質稽核，協助程式代理調整版面、字體和互動，並以規則偵測常見設計問題。",
       "highlights": [
-        "介面潤飾與設計審查",
-        "無障礙與效能檢查",
-        "規則偵測常見設計問題"
+        "介面設計與修整指令",
+        "體驗評論與品質稽核",
+        "規則偵測設計問題"
       ],
-      "comment": "老闆，頁面能跑只是起點，讓它順眼也得驗收喔。"
+      "comment": "老闆，先挑一個介面磨亮，別急著整站大翻修。"
     },
     {
       "rank": 2,
       "repo": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
-      "starsToday": 1926,
-      "starsTotal": 49939,
+      "starsToday": 2282,
+      "starsTotal": 51726,
       "language": "Python",
       "tagline": "把教材變成個人學習工作區",
-      "summary": "結合知識庫、解題、測驗生成與研究的學習工作區，可沿用教材與筆記，搭配視覺化及熟練度練習。",
+      "summary": "整合知識庫、互動問答與學習工具，協助理解教材、整理筆記和練習；新版加入區塊筆記與旁白影片課程。",
       "highlights": [
-        "知識庫與筆記共用",
-        "解題與測驗生成",
-        "影片學習與進度保存"
+        "教材知識庫與問答",
+        "區塊筆記工作區",
+        "旁白影片課程"
       ],
-      "comment": "老闆，教材先整理好，這回別只收藏不練習啦。"
+      "comment": "老闆，資料收藏完，這次換成真的學會再下班。"
     },
     {
       "rank": 3,
-      "repo": "vectorize-io/hindsight",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "starsToday": 1352,
-      "starsTotal": 56185,
-      "language": "Python",
-      "tagline": "讓代理保存並運用長期記憶",
-      "summary": "提供代理記憶系統，透過儲存、檢索與反思操作處理資訊，結合語意、關鍵字、圖譜及時間檢索。",
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "starsToday": 1336,
+      "starsTotal": 30403,
+      "language": "Shell",
+      "tagline": "讓代理分工組成遊戲工作室",
+      "summary": "以工作室階層組織49位專職代理，搭配設計、程式、美術與測試流程，協助遊戲專案從構想到交付維持協作與品質檢查。",
       "highlights": [
-        "長期記憶管理",
-        "四種檢索策略",
-        "記憶反思操作"
+        "49位專職代理",
+        "跨部門分工",
+        "遊戲畫面驗收"
       ],
-      "comment": "老闆，重要交代留進記憶庫，下次就少重講一遍。"
+      "comment": "老闆，虛擬團隊到齊，最後還是要親自玩玩看。"
     },
     {
       "rank": 4,
-      "repo": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "starsToday": 1190,
-      "starsTotal": 7424,
-      "language": "TypeScript",
-      "tagline": "用聊天介面指揮多個代理",
-      "summary": "本機優先的開源聊天應用，可連接 Claude、Codex 等代理，為機器人配置模型、電腦環境與應用連線。",
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "starsToday": 1255,
+      "starsTotal": 309390,
+      "language": "Shell",
+      "tagline": "把程式開發拆成可檢查流程",
+      "summary": "以可組合技能串起需求釐清、設計、實作計畫與子代理開發，強調測試驅動開發及程式審查，讓代理按步驟完成任務。",
       "highlights": [
-        "多代理聊天介面",
-        "本機優先儲存",
-        "可接雲端桌面"
+        "先釐清需求",
+        "測試驅動開發",
+        "分工與程式審查"
       ],
-      "comment": "老闆，分工可以多開幾位，關鍵操作還是要過目喔。"
+      "comment": "老闆，先把計畫說清楚，少一點寫完才大改的驚喜。"
     },
     {
       "rank": 5,
-      "repo": "elayadesign/ai-design-skills",
-      "url": "https://github.com/elayadesign/ai-design-skills",
-      "starsToday": 1178,
-      "starsTotal": 12083,
-      "tagline": "給程式工具使用的設計技能",
-      "summary": "收集給 AI 程式工具使用的設計技能，目前提供從需求提問、頁面架構到文案與視覺系統的到達頁設計流程。",
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "starsToday": 1145,
+      "starsTotal": 106152,
+      "language": "TypeScript",
+      "tagline": "讓代理跨對話接續專案記憶",
+      "summary": "自動記錄工具使用觀察、產生語意摘要，將相關脈絡帶入後續對話，並提供分層搜尋，協助代理延續專案知識。",
       "highlights": [
-        "到達頁設計流程",
-        "需求與文案規劃",
-        "可調整視覺規則"
+        "跨對話保存脈絡",
+        "觀察摘要",
+        "分層搜尋記憶"
       ],
-      "comment": "老闆，先說清楚頁面要做什麼，再請工具動手裝潢。"
+      "comment": "老闆，換個對話不用從頭交代，記憶也要記得整理。"
     }
   ],
-  "quote": "八頁榜單，看見工具新點子"
+  "quote": "把細節做好，讓成果說話。"
 }
+
