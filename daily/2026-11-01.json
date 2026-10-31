@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "date": "2026-11-01",
+  "headline": {
+    "kicker": "記憶接棒",
+    "title": "claude-mem讓代理記住前情",
+    "deck": "自動整理工具操作與語意摘要，讓新對話接續專案脈絡。",
+    "image": "img/2026-11-01.webp"
+  },
+  "repos": [
+    {
+      "rank": 1,
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "starsToday": 1723,
+      "starsTotal": 107786,
+      "language": "TypeScript",
+      "tagline": "讓程式代理跨對話保留記憶",
+      "summary": "自動記錄工具操作並產生語意摘要，在新對話帶回相關脈絡；提供記憶搜尋與網頁檢視，讓專案知識延續。",
+      "highlights": [
+        "跨對話延續專案脈絡",
+        "分層搜尋歷史紀錄",
+        "可排除私密內容"
+      ],
+      "comment": "老闆，交接不用每次從頭講，記憶也記得定期整理喔。"
+    },
+    {
+      "rank": 2,
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "starsToday": 1339,
+      "starsTotal": 98208,
+      "language": "Rust",
+      "tagline": "給程式代理一套介面設計語彙",
+      "summary": "用設計指令引導程式代理調整版面、字體與動效，並檢查無障礙、效能及常見介面問題，協助打磨既有頁面。",
+      "highlights": [
+        "提供設計與審查指令",
+        "偵測常見介面問題",
+        "支援多種程式代理"
+      ],
+      "comment": "老闆，先挑一個畫面細修，比整站喊變漂亮更有用！"
+    },
+    {
+      "rank": 3,
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "starsToday": 1304,
+      "starsTotal": 9544,
+      "language": "TypeScript",
+      "tagline": "用聊天介面管理多位工作代理",
+      "summary": "以桌面聊天介面管理本機執行的程式代理，讓各代理搭配不同模型、電腦環境與應用程式，並透過核准卡確認操作。",
+      "highlights": [
+        "多代理聊天介面",
+        "可搭配雲端電腦",
+        "操作核准卡"
+      ],
+      "comment": "老闆，幫手多了也要分清權限，派工前先看核准卡。"
+    },
+    {
+      "rank": 4,
+      "repo": "Orkas-AI/Orkas",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "starsToday": 1118,
+      "starsTotal": 6104,
+      "language": "JavaScript",
+      "tagline": "把目標拆給桌面代理團隊",
+      "summary": "由指揮代理拆解目標並協調專門代理，處理研究、內容、程式與辦公文件；支援專案待辦、排程及外部工具連接。",
+      "highlights": [
+        "指揮代理協調分工",
+        "內建十六位專門代理",
+        "專案待辦與排程"
+      ],
+      "comment": "老闆，團隊先分工再開跑，成果回來還是要驗收喔。"
+    },
+    {
+      "rank": 5,
+      "repo": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "starsToday": 1035,
+      "starsTotal": 52755,
+      "language": "Python",
+      "tagline": "串起解題研究與練習的學習空間",
+      "summary": "結合問答、解題、研究與練習，讓教材、筆記和學習進度共用脈絡；可建立知識庫並以來源引用支援閱讀與探索。",
+      "highlights": [
+        "多種學習模式",
+        "教材來源引用",
+        "可檢視學習記憶"
+      ],
+      "comment": "老闆，讀完別急著收工，出幾題練習才知道有沒有懂。"
+    }
+  ],
+  "quote": "讓經驗留下，讓下一步更穩。"
+}
