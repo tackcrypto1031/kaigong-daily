@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "date": "2026-11-02",
+  "headline": {
+    "kicker": "代理稽核",
+    "title": "iFixAi 檢查代理是否守規矩",
+    "deck": "用模擬業務情境測試代理行為，提供附證據的稽核評分與報告。",
+    "image": "img/2026-11-02.webp"
+  },
+  "repos": [
+    {
+      "rank": 1,
+      "repo": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "starsToday": 1654,
+      "starsTotal": 42463,
+      "language": "Python",
+      "tagline": "替 AI 代理進行獨立稽核",
+      "summary": "將代理放入模擬業務情境，測試權限、提示注入、任務遵循等行為，並產生附證據的評分與報告。",
+      "highlights": [
+        "模擬真實業務情境",
+        "以不同供應商模型評判",
+        "輸出稽核證據與評分"
+      ],
+      "comment": "老闆，代理說完成還不夠，先看看它有沒有照規矩做！"
+    },
+    {
+      "rank": 2,
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "starsToday": 1527,
+      "starsTotal": 109154,
+      "language": "TypeScript",
+      "tagline": "讓代理跨對話延續工作記憶",
+      "summary": "自動記錄工具操作並產生語意摘要，在新對話注入相關脈絡，也提供搜尋與本機檢視介面。",
+      "highlights": [
+        "跨對話保存脈絡",
+        "搜尋歷史觀察紀錄",
+        "可控制記憶注入內容"
+      ],
+      "comment": "老闆，交接別再從頭講，先把記憶整理好比較省力！"
+    },
+    {
+      "rank": 3,
+      "repo": "Orkas-AI/Orkas",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "starsToday": 1261,
+      "starsTotal": 7177,
+      "language": "JavaScript",
+      "tagline": "在桌面協調多個 AI 代理",
+      "summary": "由指揮代理拆解目標、分派專業代理，整合專案記憶、待辦與排程，也能協同使用本機程式代理。",
+      "highlights": [
+        "專案記憶與待辦",
+        "排程自動化",
+        "協調多種程式代理"
+      ],
+      "comment": "老闆，分工先排好，別讓一群代理各忙各的！"
+    },
+    {
+      "rank": 4,
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "starsToday": 1173,
+      "starsTotal": 99268,
+      "language": "Rust",
+      "tagline": "讓程式代理也懂介面設計",
+      "summary": "提供設計技能、視覺方向與檢查工具，協助代理改善介面細節，並掃描原始碼或網頁中的設計問題。",
+      "highlights": [
+        "介面設計技能",
+        "視覺檢查與修整",
+        "可掃描網頁"
+      ],
+      "comment": "老闆，功能做完別急著交，介面也值得梳妝一下！"
+    },
+    {
+      "rank": 5,
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "starsToday": 1048,
+      "starsTotal": 309205,
+      "language": "Shell",
+      "tagline": "把工程實務整理成代理技能",
+      "summary": "可組合的工程技能集，涵蓋需求釐清、規格與任務拆解、測試驅動開發、除錯及程式碼審查。",
+      "highlights": [
+        "釐清需求與規格",
+        "測試驅動開發",
+        "除錯與程式碼審查"
+      ],
+      "comment": "老闆，先問清楚再動手，少一點重做就是多一點下班！"
+    }
+  ],
+  "quote": "把成果做好，也把過程看清楚"
+}
