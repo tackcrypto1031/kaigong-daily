@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "date": "2026-11-04",
+  "headline": {
+    "kicker": "桌面幫手",
+    "title": "agent-desktop接手桌面操作",
+    "deck": "透過無障礙樹讀取介面，讓AI代理以元素參照操作桌面應用並確認結果。",
+    "image": "img/2026-11-04.webp"
+  },
+  "repos": [
+    {
+      "rank": 1,
+      "repo": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "starsToday": 3792,
+      "starsTotal": 12593,
+      "language": "Rust",
+      "tagline": "用無障礙樹操作桌面應用",
+      "summary": "提供命令列與C函式庫，讓AI代理讀取桌面無障礙樹，以元素參照點擊、輸入並重新讀取介面確認結果，支援三大桌面系統。",
+      "highlights": [
+        "元素參照定位操作",
+        "支援三大桌面系統",
+        "提供命令列與C函式庫"
+      ],
+      "comment": "老闆，桌面雜事有幫手了，重要操作還是記得驗收喔！"
+    },
+    {
+      "rank": 2,
+      "repo": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "starsToday": 1658,
+      "starsTotal": 94708,
+      "language": "Python",
+      "tagline": "從單頁擷取到整站爬取",
+      "summary": "Python網頁擷取框架，整合HTTP請求、瀏覽器操作、資料解析與並行爬取，支援工作階段重用、暫停續跑及多種匯出格式。",
+      "highlights": [
+        "支援動態網頁解析",
+        "爬取可暫停再續跑",
+        "提供MCP與代理技能"
+      ],
+      "comment": "老闆，蒐集公開資料可以少搬幾次，網站規範也別漏看！"
+    },
+    {
+      "rank": 3,
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "starsToday": 1181,
+      "starsTotal": 34612,
+      "language": "Shell",
+      "tagline": "把程式代理編成遊戲工作室",
+      "summary": "為Claude Code配置遊戲開發團隊，將設計、程式、美術與測試等角色分層協作，搭配技能、範本及品質檢查流程。",
+      "highlights": [
+        "分層角色協作",
+        "內建開發工作流程",
+        "設有品質檢查關卡"
+      ],
+      "comment": "老闆，開發會議能分工了，遊戲方向還是由你拍板！"
+    },
+    {
+      "rank": 4,
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "starsToday": 1164,
+      "starsTotal": 311386,
+      "language": "Shell",
+      "tagline": "可組合的工程實務技能包",
+      "summary": "把需求釐清、規格拆解、測試驅動開發、除錯與程式審查整理成小型代理技能，可依專案調整並組合使用。",
+      "highlights": [
+        "先釐清需求",
+        "測試驅動開發",
+        "規格拆解與程式審查"
+      ],
+      "comment": "老闆，先把需求問清楚，應該能少開幾場重做大會！"
+    },
+    {
+      "rank": 5,
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "starsToday": 1138,
+      "starsTotal": 111834,
+      "language": "TypeScript",
+      "tagline": "替代理保存跨工作階段記憶",
+      "summary": "自動記錄工具使用觀察並產生語意摘要，讓後續工作階段取回相關脈絡，並提供搜尋、時間軸及記憶檢視功能。",
+      "highlights": [
+        "保存跨工作階段脈絡",
+        "分層搜尋歷史紀錄",
+        "可控制注入內容"
+      ],
+      "comment": "老闆，下次開工不用從頭交代，但私密內容要先管好喔！"
+    }
+  ],
+  "quote": "八頁候選取樣，非全站排名"
+}

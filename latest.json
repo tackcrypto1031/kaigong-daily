@@ -1,93 +1,93 @@
 {
   "v": 1,
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "headline": {
-    "kicker": "桌面助手",
-    "title": "讓代理看懂桌面再動手",
-    "deck": "用無障礙樹定位介面元素，讓代理操作桌面程式並確認結果。",
-    "image": "img/2026-11-03.webp"
+    "kicker": "桌面幫手",
+    "title": "agent-desktop接手桌面操作",
+    "deck": "透過無障礙樹讀取介面，讓AI代理以元素參照操作桌面應用並確認結果。",
+    "image": "img/2026-11-04.webp"
   },
   "repos": [
     {
       "rank": 1,
       "repo": "vercel-labs/agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
-      "starsToday": 2243,
-      "starsTotal": 9460,
+      "starsToday": 3792,
+      "starsTotal": 12593,
       "language": "Rust",
-      "tagline": "讓代理讀懂桌面介面",
-      "summary": "透過作業系統無障礙樹讀取介面，讓代理以元素參照點擊、輸入，再擷取快照確認結果；支援三大桌面系統。",
+      "tagline": "用無障礙樹操作桌面應用",
+      "summary": "提供命令列與C函式庫，讓AI代理讀取桌面無障礙樹，以元素參照點擊、輸入並重新讀取介面確認結果，支援三大桌面系統。",
       "highlights": [
-        "無障礙樹定位元素",
-        "以快照確認操作結果",
-        "支援無焦點背景操作"
+        "元素參照定位操作",
+        "支援三大桌面系統",
+        "提供命令列與C函式庫"
       ],
-      "comment": "老闆，先讓代理看懂按鈕，再請它幫忙點。"
+      "comment": "老闆，桌面雜事有幫手了，重要操作還是記得驗收喔！"
     },
     {
       "rank": 2,
-      "repo": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "starsToday": 1799,
-      "starsTotal": 110688,
-      "language": "TypeScript",
-      "tagline": "把工作記憶帶進下一段對話",
-      "summary": "記錄代理工作期間的操作觀察，整理成語意摘要，並在後續工作階段注入相關內容，減少重複交代背景。",
+      "repo": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "starsToday": 1658,
+      "starsTotal": 94708,
+      "language": "Python",
+      "tagline": "從單頁擷取到整站爬取",
+      "summary": "Python網頁擷取框架，整合HTTP請求、瀏覽器操作、資料解析與並行爬取，支援工作階段重用、暫停續跑及多種匯出格式。",
       "highlights": [
-        "跨工作階段保存脈絡",
-        "整理操作觀察與摘要",
-        "支援多種程式代理"
+        "支援動態網頁解析",
+        "爬取可暫停再續跑",
+        "提供MCP與代理技能"
       ],
-      "comment": "老闆，交接筆記先留好，明天就少講一次。"
+      "comment": "老闆，蒐集公開資料可以少搬幾次，網站規範也別漏看！"
     },
     {
       "rank": 3,
       "repo": "Donchitos/Claude-Code-Game-Studios",
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "starsToday": 1380,
-      "starsTotal": 33487,
+      "starsToday": 1181,
+      "starsTotal": 34612,
       "language": "Shell",
-      "tagline": "替遊戲開發組一支代理團隊",
-      "summary": "為 Claude Code 提供遊戲工作室範本，以主管與專業代理分工，搭配設計、開發、測試及發行流程，仍由使用者決策。",
+      "tagline": "把程式代理編成遊戲工作室",
+      "summary": "為Claude Code配置遊戲開發團隊，將設計、程式、美術與測試等角色分層協作，搭配技能、範本及品質檢查流程。",
       "highlights": [
-        "遊戲開發分工",
-        "設計到發行流程",
-        "保留人工決策"
+        "分層角色協作",
+        "內建開發工作流程",
+        "設有品質檢查關卡"
       ],
-      "comment": "老闆，團隊編制有了，遊戲方向還是您拍板。"
+      "comment": "老闆，開發會議能分工了，遊戲方向還是由你拍板！"
     },
     {
       "rank": 4,
       "repo": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "starsToday": 968,
-      "starsTotal": 310177,
+      "starsToday": 1164,
+      "starsTotal": 311386,
       "language": "Shell",
-      "tagline": "把工程習慣拆成可組合技能",
-      "summary": "收錄可調整、可組合的代理技能，涵蓋需求釐清、規格拆解、測試驅動開發、除錯與程式碼審查，協助落實工程流程。",
+      "tagline": "可組合的工程實務技能包",
+      "summary": "把需求釐清、規格拆解、測試驅動開發、除錯與程式審查整理成小型代理技能，可依專案調整並組合使用。",
       "highlights": [
-        "需求釐清",
+        "先釐清需求",
         "測試驅動開發",
-        "程式碼審查"
+        "規格拆解與程式審查"
       ],
-      "comment": "老闆，先問清楚再開工，比返工更划算。"
+      "comment": "老闆，先把需求問清楚，應該能少開幾場重做大會！"
     },
     {
       "rank": 5,
-      "repo": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "starsToday": 910,
-      "starsTotal": 11197,
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "starsToday": 1138,
+      "starsTotal": 111834,
       "language": "TypeScript",
-      "tagline": "把多種代理放進同一個工作區",
-      "summary": "以桌面聊天工作區整合多種 AI 命令列代理，可分派任務，並選用雲端電腦與外部服務連接；部分服務另行計費。",
+      "tagline": "替代理保存跨工作階段記憶",
+      "summary": "自動記錄工具使用觀察並產生語意摘要，讓後續工作階段取回相關脈絡，並提供搜尋、時間軸及記憶檢視功能。",
       "highlights": [
-        "多代理聊天工作區",
-        "分派任務",
-        "可選雲端電腦"
+        "保存跨工作階段脈絡",
+        "分層搜尋歷史紀錄",
+        "可控制注入內容"
       ],
-      "comment": "老闆，分工可以熱鬧，權限和費用要看牢。"
+      "comment": "老闆，下次開工不用從頭交代，但私密內容要先管好喔！"
     }
   ],
-  "quote": "先釐清，再開工。"
+  "quote": "八頁候選取樣，非全站排名"
 }
