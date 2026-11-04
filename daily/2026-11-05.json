@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "date": "2026-11-05",
+  "headline": {
+    "kicker": "桌面派工",
+    "title": "agent-desktop 讓代理接手桌面",
+    "deck": "透過無障礙介面讀取控制項，讓 AI 代理點擊、輸入並核對操作結果。",
+    "image": "img/2026-11-05.webp"
+  },
+  "repos": [
+    {
+      "rank": 1,
+      "repo": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "starsToday": 2463,
+      "starsTotal": 14953,
+      "language": "Rust",
+      "tagline": "讓 AI 代理操作桌面應用程式",
+      "summary": "透過作業系統的無障礙介面讀取視窗與控制項，讓 AI 代理依元素參照點擊、輸入並檢查結果，支援三大桌面平台。",
+      "highlights": [
+        "讀取無障礙元素樹",
+        "提供命令列與 C 函式庫",
+        "操作後重新核對畫面"
+      ],
+      "comment": "老闆，桌面雜事能派工了，權限和操作結果可別忘了看！"
+    },
+    {
+      "rank": 2,
+      "repo": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "starsToday": 2053,
+      "starsTotal": 4832,
+      "language": "Python",
+      "tagline": "替企業資料建立語意知識圖譜",
+      "summary": "從企業中繼資料建立本體與知識圖譜，協調跨系統定義，提供自然語言查詢及來源追溯，並透過 MCP、命令列與 API 供代理使用。",
+      "highlights": [
+        "協調跨系統資料定義",
+        "查詢結果附來源脈絡",
+        "提供自然語言資料查詢"
+      ],
+      "comment": "老闆，先把資料的意思說清楚，代理才不會各說各話。"
+    },
+    {
+      "rank": 3,
+      "repo": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "starsToday": 2006,
+      "starsTotal": 96452,
+      "language": "Python",
+      "tagline": "整合網頁擷取與並行爬取工具",
+      "summary": "Python 網頁擷取框架，整合 HTTP 請求、瀏覽器渲染、資料解析與並行爬取，也提供 MCP 伺服器和代理技能。",
+      "highlights": [
+        "支援動態頁面",
+        "爬取可暫停續跑",
+        "多種資料匯出格式"
+      ],
+      "comment": "老闆，整理網站資料可以少搬幾趟，記得尊重網站規範。"
+    },
+    {
+      "rank": 4,
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "starsToday": 1376,
+      "starsTotal": 313237,
+      "language": "Shell",
+      "tagline": "把工程實務拆成可組合代理技能",
+      "summary": "提供可調整、可組合的代理技能，涵蓋需求釐清、規格拆解、測試驅動開發與程式碼審查，支援多種程式代理。",
+      "highlights": [
+        "先釐清需求",
+        "測試驅動開發",
+        "規格拆成任務"
+      ],
+      "comment": "老闆，先問清楚再開工，總比做完才發現方向錯了省事！"
+    },
+    {
+      "rank": 5,
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "starsToday": 1165,
+      "starsTotal": 112792,
+      "language": "TypeScript",
+      "tagline": "替程式代理保留跨對話記憶",
+      "summary": "自動記錄工具使用觀察、產生語意摘要，讓後續對話檢索專案歷史並接續脈絡，提供分層搜尋與記憶檢視功能。",
+      "highlights": [
+        "跨對話保留脈絡",
+        "分層檢索歷史",
+        "可排除私密內容"
+      ],
+      "comment": "老闆，交接筆記有人整理了，敏感內容也要記得劃清界線。"
+    }
+  ],
+  "quote": "先看清楚，再動手。"
+}
