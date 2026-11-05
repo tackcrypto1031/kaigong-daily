@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "date": "2026-11-06",
+  "headline": {
+    "kicker": "語意串聯",
+    "title": "auto-ontology 串起資料語意",
+    "deck": "從企業中繼資料建立知識圖譜，讓代理帶著來源依據查詢",
+    "image": "img/2026-11-06.webp"
+  },
+  "repos": [
+    {
+      "rank": 1,
+      "repo": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "starsToday": 2707,
+      "starsTotal": 7227,
+      "language": "Python",
+      "tagline": "把企業資料串成語意知識圖譜",
+      "summary": "從資料庫中繼資料建立語意層，整理名詞、指標與關係，讓代理查詢資料並附上 SQL 與來源依據。",
+      "highlights": [
+        "自然語言查詢資料庫",
+        "人工認證指標定義",
+        "提供 MCP 與 API"
+      ],
+      "comment": "老闆，先把數字定義對齊，開會就少一場各說各話！"
+    },
+    {
+      "rank": 2,
+      "repo": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "starsToday": 2173,
+      "starsTotal": 16770,
+      "language": "Rust",
+      "tagline": "讓代理透過無障礙介面操作桌面",
+      "summary": "讀取作業系統的無障礙樹，讓 AI 代理辨識介面元件並點擊、輸入；提供 CLI 與 C 函式庫，工具本身不含模型。",
+      "highlights": [
+        "支援三大桌面系統",
+        "元件參照隨快照更新",
+        "可透過 MCP 呼叫"
+      ],
+      "comment": "老闆，桌面雜事能派工了，權限還是先看清楚喔！"
+    },
+    {
+      "rank": 3,
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "starsToday": 2053,
+      "starsTotal": 315139,
+      "language": "Shell",
+      "tagline": "可自由組合的工程代理技能",
+      "summary": "把需求釐清、規格拆解、測試驅動開發與程式碼審查整理成小型技能，支援多種代理工具，方便依專案調整。",
+      "highlights": [
+        "需求訪談與規格拆解",
+        "測試驅動開發",
+        "程式碼審查"
+      ],
+      "comment": "老闆，先問清楚再開工，總比重做一整輪划算！"
+    },
+    {
+      "rank": 4,
+      "repo": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "starsToday": 1661,
+      "starsTotal": 97909,
+      "language": "Python",
+      "tagline": "從單頁擷取到網站爬取的工具",
+      "summary": "整合 HTTP 請求、瀏覽器渲染、資料解析與並行爬取，支援工作暫停續跑及多種匯出格式，也能接上 AI 代理。",
+      "highlights": [
+        "支援動態網頁",
+        "爬取可暫停續跑",
+        "提供 MCP 與技能"
+      ],
+      "comment": "老闆，整理網頁資料有幫手了，來源規範也別漏看！"
+    },
+    {
+      "rank": 5,
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "starsToday": 1383,
+      "starsTotal": 103872,
+      "language": "Rust",
+      "tagline": "替程式代理補上設計詞彙",
+      "summary": "提供介面設計、視覺調整與品質審查指令，搭配規則偵測器找出常見設計問題，協助逐步打磨既有頁面。",
+      "highlights": [
+        "介面設計審查",
+        "規則偵測常見問題",
+        "支援多種程式代理"
+      ],
+      "comment": "老闆，畫面不只要能用，也該讓人一眼看懂！"
+    }
+  ],
+  "quote": "先懂資料，再談答案。"
+}
