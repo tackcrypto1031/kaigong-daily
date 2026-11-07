@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "date": "2026-11-08",
+  "headline": {
+    "kicker": "拆解原理",
+    "title": "rea 讓代理看懂軟體內部",
+    "deck": "串接逆向工程工具，分析二進位檔、應用程式與網站，附上結論證據",
+    "image": "img/2026-11-08.webp"
+  },
+  "repos": [
+    {
+      "rank": 1,
+      "repo": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "starsToday": 3308,
+      "starsTotal": 440908,
+      "language": "TypeScript",
+      "tagline": "讓代理拆解軟體運作原理",
+      "summary": "透過 MCP 串接逆向工程工具，讓代理分析原生二進位檔、應用程式與網站，並提供支持結論的證據。",
+      "highlights": [
+        "本機分析與證據追蹤",
+        "支援二進位檔與網站",
+        "可用命令列操作"
+      ],
+      "comment": "老闆，先看懂零件怎麼動，再來想怎麼改。"
+    },
+    {
+      "rank": 2,
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "starsToday": 2088,
+      "starsTotal": 65630,
+      "language": "JavaScript",
+      "tagline": "讓程式代理分工做資安稽核",
+      "summary": "以六階段流程協調代理進行偵察、漏洞搜尋與獨立驗證，再輸出可機器讀取的發現紀錄與報告。",
+      "highlights": [
+        "搜尋與驗證分開進行",
+        "覆蓋紀錄追蹤檢查缺口",
+        "區分確認與待驗證發現"
+      ],
+      "comment": "老闆，警報先別急著拉，證據請另一位再看一次。"
+    },
+    {
+      "rank": 3,
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "starsToday": 1986,
+      "starsTotal": 16907,
+      "language": "TypeScript",
+      "tagline": "用聊天介面管理多位代理",
+      "summary": "本機優先的開源聊天應用，串接 Claude、Codex 等代理，讓每位助理使用各自的模型、電腦與連接應用。",
+      "highlights": [
+        "多代理聊天介面",
+        "支援雲端與本機虛擬機",
+        "重要操作可審核"
+      ],
+      "comment": "老闆，助理可以多幾位，批准權還是留在您手上。"
+    },
+    {
+      "rank": 4,
+      "repo": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "starsToday": 1322,
+      "starsTotal": 9760,
+      "language": "Python",
+      "tagline": "為企業資料建立語意脈絡",
+      "summary": "從企業中繼資料建立本體與知識圖譜，整合指標定義和資料關係，透過 MCP、命令列及 API 提供代理查詢脈絡。",
+      "highlights": [
+        "整合跨系統定義",
+        "查詢附來源與步驟",
+        "提供自然語言查詢"
+      ],
+      "comment": "老闆，數字先對齊定義，開會才不會各說各話。"
+    },
+    {
+      "rank": 5,
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "starsToday": 1111,
+      "starsTotal": 317649,
+      "language": "Shell",
+      "tagline": "把工程實務變成代理技能",
+      "summary": "提供可組合的代理技能，涵蓋需求釐清、測試驅動開發、除錯與程式碼審查，協助建立有回饋的開發流程。",
+      "highlights": [
+        "需求釐清與文件整理",
+        "測試驅動開發",
+        "架構與程式碼審查"
+      ],
+      "comment": "老闆，先把需求問清楚，少一輪重做就是賺到。"
+    }
+  ],
+  "quote": "先讀懂原理，再動手改造"
+}
