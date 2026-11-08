@@ -1,93 +1,93 @@
 {
   "v": 1,
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "headline": {
-    "kicker": "拆解原理",
-    "title": "rea 讓代理看懂軟體內部",
-    "deck": "串接逆向工程工具，分析二進位檔、應用程式與網站，附上結論證據",
-    "image": "img/2026-11-08.webp"
+    "kicker": "交叉查證",
+    "title": "Cloudflare 讓代理驗證漏洞",
+    "deck": "透過分工搜尋、獨立驗證與覆蓋紀錄，將程式碼資安稽核整理成可追溯報告",
+    "image": "img/2026-11-09.webp"
   },
   "repos": [
     {
       "rank": 1,
-      "repo": "morluto/rea",
-      "url": "https://github.com/morluto/rea",
-      "starsToday": 3308,
-      "starsTotal": 440908,
-      "language": "TypeScript",
-      "tagline": "讓代理拆解軟體運作原理",
-      "summary": "透過 MCP 串接逆向工程工具，讓代理分析原生二進位檔、應用程式與網站，並提供支持結論的證據。",
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "starsToday": 1579,
+      "starsTotal": 66778,
+      "language": "JavaScript",
+      "tagline": "讓程式代理分工稽核資安",
+      "summary": "把程式代理化為資安稽核團隊，從架構盤點、漏洞搜尋到獨立驗證，輸出結構化發現與報告，並記錄尚待查證的問題。",
       "highlights": [
-        "本機分析與證據追蹤",
-        "支援二進位檔與網站",
-        "可用命令列操作"
+        "六階段稽核流程",
+        "發現與驗證分開執行",
+        "記錄覆蓋範圍與證據"
       ],
-      "comment": "老闆，先看懂零件怎麼動，再來想怎麼改。"
+      "comment": "老闆，漏洞先交叉查證，別讓誤報搶了真問題的版面！"
     },
     {
       "rank": 2,
-      "repo": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "starsToday": 2088,
-      "starsTotal": 65630,
-      "language": "JavaScript",
-      "tagline": "讓程式代理分工做資安稽核",
-      "summary": "以六階段流程協調代理進行偵察、漏洞搜尋與獨立驗證，再輸出可機器讀取的發現紀錄與報告。",
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "starsToday": 1437,
+      "starsTotal": 18174,
+      "language": "TypeScript",
+      "tagline": "在聊天介面管理自己的代理團隊",
+      "summary": "本機優先的開源聊天應用，可搭配 Claude、Codex 等代理；每位機器人能使用自己的電腦與連接的應用程式，重要操作可要求核准。",
       "highlights": [
-        "搜尋與驗證分開進行",
-        "覆蓋紀錄追蹤檢查缺口",
-        "區分確認與待驗證發現"
+        "每位代理獨立設定模型",
+        "支援雲端桌面與本機虛擬機",
+        "整合應用程式與操作核准"
       ],
-      "comment": "老闆，警報先別急著拉，證據請另一位再看一次。"
+      "comment": "老闆，派工像傳訊息一樣順手，核准卡可別直接滑過喔！"
     },
     {
       "rank": 3,
-      "repo": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "starsToday": 1986,
-      "starsTotal": 16907,
+      "repo": "Albert-Weasker/niubigeo",
+      "url": "https://github.com/Albert-Weasker/niubigeo",
+      "starsToday": 1307,
+      "starsTotal": 10135,
       "language": "TypeScript",
-      "tagline": "用聊天介面管理多位代理",
-      "summary": "本機優先的開源聊天應用，串接 Claude、Codex 等代理，讓每位助理使用各自的模型、電腦與連接應用。",
+      "tagline": "追蹤品牌在 AI 回答中的曝光",
+      "summary": "輸入網域或關鍵字，比較不同模型對品牌與競爭者的描述，檢查原始回答及引用來源，保留歷史測試並比較變化，可自行架設。",
       "highlights": [
-        "多代理聊天介面",
-        "支援雲端與本機虛擬機",
-        "重要操作可審核"
+        "比較多模型回答",
+        "追溯引用證據",
+        "關鍵字歷史監測"
       ],
-      "comment": "老闆，助理可以多幾位，批准權還是留在您手上。"
+      "comment": "老闆，先看 AI 到底怎麼介紹我們，再來討論曝光策略！"
     },
     {
       "rank": 4,
-      "repo": "NVIDIA/auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "starsToday": 1322,
-      "starsTotal": 9760,
-      "language": "Python",
-      "tagline": "為企業資料建立語意脈絡",
-      "summary": "從企業中繼資料建立本體與知識圖譜，整合指標定義和資料關係，透過 MCP、命令列及 API 提供代理查詢脈絡。",
+      "repo": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "starsToday": 863,
+      "starsTotal": 16548,
+      "language": "TypeScript",
+      "tagline": "供人與代理共用的設計系統",
+      "summary": "基於 React 與 StyleX 的開源設計系統，提供逾百種無障礙元件、主題、範本與命令列工具，讓人與 AI 助手使用同一套介面開發資源。",
       "highlights": [
-        "整合跨系統定義",
-        "查詢附來源與步驟",
-        "提供自然語言查詢"
+        "可自訂品牌主題",
+        "提供元件與範本",
+        "支援深色模式"
       ],
-      "comment": "老闆，數字先對齊定義，開會才不會各說各話。"
+      "comment": "老闆，畫面想統一又想有個性，先從同一套元件開始吧！"
     },
     {
       "rank": 5,
-      "repo": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "starsToday": 1111,
-      "starsTotal": 317649,
-      "language": "Shell",
-      "tagline": "把工程實務變成代理技能",
-      "summary": "提供可組合的代理技能，涵蓋需求釐清、測試驅動開發、除錯與程式碼審查，協助建立有回饋的開發流程。",
+      "repo": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "starsToday": 812,
+      "starsTotal": 47541,
+      "language": "Rust",
+      "tagline": "讓代理以命令列操作瀏覽器",
+      "summary": "以 Rust 打造的瀏覽器自動化工具，將網頁轉成精簡的無障礙樹與元素參照，讓 AI 代理逐步開頁、點擊、填寫，再讀取頁面確認結果。",
       "highlights": [
-        "需求釐清與文件整理",
-        "測試驅動開發",
-        "架構與程式碼審查"
+        "精簡頁面快照",
+        "元素參照操作",
+        "逐步檢查結果"
       ],
-      "comment": "老闆，先把需求問清楚，少一輪重做就是賺到。"
+      "comment": "老闆，讓代理點完再看結果，網頁任務才不會憑感覺交差！"
     }
   ],
-  "quote": "先讀懂原理，再動手改造"
+  "quote": "八頁候選，依今日星數排序"
 }
