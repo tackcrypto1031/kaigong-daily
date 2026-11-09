@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "date": "2026-11-10",
+  "headline": {
+    "kicker": "介面積木",
+    "title": "Astryx讓人與代理共用設計積木",
+    "deck": "整合可客製化元件、主題與命令列工具，打造一致的 React 介面。",
+    "image": "img/2026-11-10.webp"
+  },
+  "repos": [
+    {
+      "rank": 1,
+      "repo": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "starsToday": 3324,
+      "starsTotal": 19850,
+      "language": "TypeScript",
+      "tagline": "人與代理共用的介面設計系統",
+      "summary": "以 React 元件、主題與命令列工具組成可客製化設計系統，提供無障礙元件、深色模式與範本，讓人與 AI 助手使用同一套工具打造介面。",
+      "highlights": [
+        "逾150個介面元件",
+        "支援主題與深色模式",
+        "可取出元件原始碼"
+      ],
+      "comment": "老闆，介面積木先備好，改版就少一點東拼西湊！"
+    },
+    {
+      "rank": 2,
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "starsToday": 1589,
+      "starsTotal": 19608,
+      "language": "TypeScript",
+      "tagline": "用聊天介面管理多位 AI 代理",
+      "summary": "把 Claude、Codex 等本機代理放進聊天應用程式，各自搭配模型、電腦與連接的應用；提供操作核准卡與對話管理功能。",
+      "highlights": [
+        "沿用本機代理登入",
+        "提供操作核准卡",
+        "支援雲端與隔離虛擬機"
+      ],
+      "comment": "老闆，代理也能像聯絡人一樣管理，派工前記得看核准卡！"
+    },
+    {
+      "rank": 3,
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "starsToday": 1247,
+      "starsTotal": 106108,
+      "language": "Python",
+      "tagline": "在自己的裝置處理語音創作",
+      "summary": "提供語音複製、聲音設計、影片配音、聽寫、轉錄與有聲書製作，可下載所需模型在本機執行，並透過本機 API 串接流程。",
+      "highlights": [
+        "語音複製與聲音設計",
+        "影片翻譯配音",
+        "本機模型管理"
+      ],
+      "comment": "老闆，旁白工作室搬進電腦了，先拿有授權的聲音試試！"
+    },
+    {
+      "rank": 4,
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "starsToday": 1052,
+      "starsTotal": 190885,
+      "language": "Python",
+      "tagline": "讓 Claude 按步驟完成專門任務",
+      "summary": "以指令、腳本與資源組成可動態載入的技能，收錄文件編輯、網頁測試與設計等範例，供開發者參考並建立可重複使用的工作流程。",
+      "highlights": [
+        "文件處理技能",
+        "技能範本與規格",
+        "支援自訂工作流程"
+      ],
+      "comment": "老闆，重複任務先寫成技能，下次就不用從頭交代啦！"
+    },
+    {
+      "rank": 5,
+      "repo": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "starsToday": 914,
+      "starsTotal": 48417,
+      "language": "Rust",
+      "tagline": "讓 AI 代理從命令列操作瀏覽器",
+      "summary": "以 Rust 命令列工具開啟網頁，將頁面轉成帶有元素參照的精簡文字，讓代理逐步點擊、輸入並重新讀取結果，瀏覽器可跨指令維持開啟。",
+      "highlights": [
+        "精簡頁面快照",
+        "元素參照操作",
+        "跨指令保留瀏覽器"
+      ],
+      "comment": "老闆，點完再看一眼結果，瀏覽器代理也得認真驗收！"
+    }
+  ],
+  "quote": "榜單取自八頁今日熱門樣本"
+}

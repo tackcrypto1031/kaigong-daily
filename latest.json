@@ -1,93 +1,93 @@
 {
   "v": 1,
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "headline": {
-    "kicker": "交叉查證",
-    "title": "Cloudflare 讓代理驗證漏洞",
-    "deck": "透過分工搜尋、獨立驗證與覆蓋紀錄，將程式碼資安稽核整理成可追溯報告",
-    "image": "img/2026-11-09.webp"
+    "kicker": "介面積木",
+    "title": "Astryx讓人與代理共用設計積木",
+    "deck": "整合可客製化元件、主題與命令列工具，打造一致的 React 介面。",
+    "image": "img/2026-11-10.webp"
   },
   "repos": [
     {
       "rank": 1,
-      "repo": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "starsToday": 1579,
-      "starsTotal": 66778,
-      "language": "JavaScript",
-      "tagline": "讓程式代理分工稽核資安",
-      "summary": "把程式代理化為資安稽核團隊，從架構盤點、漏洞搜尋到獨立驗證，輸出結構化發現與報告，並記錄尚待查證的問題。",
+      "repo": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "starsToday": 3324,
+      "starsTotal": 19850,
+      "language": "TypeScript",
+      "tagline": "人與代理共用的介面設計系統",
+      "summary": "以 React 元件、主題與命令列工具組成可客製化設計系統，提供無障礙元件、深色模式與範本，讓人與 AI 助手使用同一套工具打造介面。",
       "highlights": [
-        "六階段稽核流程",
-        "發現與驗證分開執行",
-        "記錄覆蓋範圍與證據"
+        "逾150個介面元件",
+        "支援主題與深色模式",
+        "可取出元件原始碼"
       ],
-      "comment": "老闆，漏洞先交叉查證，別讓誤報搶了真問題的版面！"
+      "comment": "老闆，介面積木先備好，改版就少一點東拼西湊！"
     },
     {
       "rank": 2,
       "repo": "milind-soni/OpenMausBot",
       "url": "https://github.com/milind-soni/OpenMausBot",
-      "starsToday": 1437,
-      "starsTotal": 18174,
+      "starsToday": 1589,
+      "starsTotal": 19608,
       "language": "TypeScript",
-      "tagline": "在聊天介面管理自己的代理團隊",
-      "summary": "本機優先的開源聊天應用，可搭配 Claude、Codex 等代理；每位機器人能使用自己的電腦與連接的應用程式，重要操作可要求核准。",
+      "tagline": "用聊天介面管理多位 AI 代理",
+      "summary": "把 Claude、Codex 等本機代理放進聊天應用程式，各自搭配模型、電腦與連接的應用；提供操作核准卡與對話管理功能。",
       "highlights": [
-        "每位代理獨立設定模型",
-        "支援雲端桌面與本機虛擬機",
-        "整合應用程式與操作核准"
+        "沿用本機代理登入",
+        "提供操作核准卡",
+        "支援雲端與隔離虛擬機"
       ],
-      "comment": "老闆，派工像傳訊息一樣順手，核准卡可別直接滑過喔！"
+      "comment": "老闆，代理也能像聯絡人一樣管理，派工前記得看核准卡！"
     },
     {
       "rank": 3,
-      "repo": "Albert-Weasker/niubigeo",
-      "url": "https://github.com/Albert-Weasker/niubigeo",
-      "starsToday": 1307,
-      "starsTotal": 10135,
-      "language": "TypeScript",
-      "tagline": "追蹤品牌在 AI 回答中的曝光",
-      "summary": "輸入網域或關鍵字，比較不同模型對品牌與競爭者的描述，檢查原始回答及引用來源，保留歷史測試並比較變化，可自行架設。",
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "starsToday": 1247,
+      "starsTotal": 106108,
+      "language": "Python",
+      "tagline": "在自己的裝置處理語音創作",
+      "summary": "提供語音複製、聲音設計、影片配音、聽寫、轉錄與有聲書製作，可下載所需模型在本機執行，並透過本機 API 串接流程。",
       "highlights": [
-        "比較多模型回答",
-        "追溯引用證據",
-        "關鍵字歷史監測"
+        "語音複製與聲音設計",
+        "影片翻譯配音",
+        "本機模型管理"
       ],
-      "comment": "老闆，先看 AI 到底怎麼介紹我們，再來討論曝光策略！"
+      "comment": "老闆，旁白工作室搬進電腦了，先拿有授權的聲音試試！"
     },
     {
       "rank": 4,
-      "repo": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "starsToday": 863,
-      "starsTotal": 16548,
-      "language": "TypeScript",
-      "tagline": "供人與代理共用的設計系統",
-      "summary": "基於 React 與 StyleX 的開源設計系統，提供逾百種無障礙元件、主題、範本與命令列工具，讓人與 AI 助手使用同一套介面開發資源。",
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "starsToday": 1052,
+      "starsTotal": 190885,
+      "language": "Python",
+      "tagline": "讓 Claude 按步驟完成專門任務",
+      "summary": "以指令、腳本與資源組成可動態載入的技能，收錄文件編輯、網頁測試與設計等範例，供開發者參考並建立可重複使用的工作流程。",
       "highlights": [
-        "可自訂品牌主題",
-        "提供元件與範本",
-        "支援深色模式"
+        "文件處理技能",
+        "技能範本與規格",
+        "支援自訂工作流程"
       ],
-      "comment": "老闆，畫面想統一又想有個性，先從同一套元件開始吧！"
+      "comment": "老闆，重複任務先寫成技能，下次就不用從頭交代啦！"
     },
     {
       "rank": 5,
       "repo": "vercel-labs/agent-browser",
       "url": "https://github.com/vercel-labs/agent-browser",
-      "starsToday": 812,
-      "starsTotal": 47541,
+      "starsToday": 914,
+      "starsTotal": 48417,
       "language": "Rust",
-      "tagline": "讓代理以命令列操作瀏覽器",
-      "summary": "以 Rust 打造的瀏覽器自動化工具，將網頁轉成精簡的無障礙樹與元素參照，讓 AI 代理逐步開頁、點擊、填寫，再讀取頁面確認結果。",
+      "tagline": "讓 AI 代理從命令列操作瀏覽器",
+      "summary": "以 Rust 命令列工具開啟網頁，將頁面轉成帶有元素參照的精簡文字，讓代理逐步點擊、輸入並重新讀取結果，瀏覽器可跨指令維持開啟。",
       "highlights": [
         "精簡頁面快照",
         "元素參照操作",
-        "逐步檢查結果"
+        "跨指令保留瀏覽器"
       ],
-      "comment": "老闆，讓代理點完再看結果，網頁任務才不會憑感覺交差！"
+      "comment": "老闆，點完再看一眼結果，瀏覽器代理也得認真驗收！"
     }
   ],
-  "quote": "八頁候選，依今日星數排序"
+  "quote": "榜單取自八頁今日熱門樣本"
 }
