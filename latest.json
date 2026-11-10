@@ -1,92 +1,92 @@
 {
   "v": 1,
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "headline": {
     "kicker": "介面積木",
-    "title": "Astryx讓人與代理共用設計積木",
-    "deck": "整合可客製化元件、主題與命令列工具，打造一致的 React 介面。",
-    "image": "img/2026-11-10.webp"
+    "title": "Astryx 打造可自訂設計系統",
+    "deck": "提供 React 元件、主題與命令列工具，讓人與 AI 助手共用設計規範。",
+    "image": "img/2026-11-11.webp"
   },
   "repos": [
     {
       "rank": 1,
       "repo": "meta/astryx",
       "url": "https://github.com/meta/astryx",
-      "starsToday": 3324,
-      "starsTotal": 19850,
+      "starsToday": 3111,
+      "starsTotal": 22655,
       "language": "TypeScript",
-      "tagline": "人與代理共用的介面設計系統",
-      "summary": "以 React 元件、主題與命令列工具組成可客製化設計系統，提供無障礙元件、深色模式與範本，讓人與 AI 助手使用同一套工具打造介面。",
+      "tagline": "讓人與代理共用介面元件",
+      "summary": "以 React 元件、主題與命令列工具組成設計系統，提供逾百種無障礙元件，讓開發者與 AI 助手依同一套文件打造介面。",
       "highlights": [
-        "逾150個介面元件",
-        "支援主題與深色模式",
-        "可取出元件原始碼"
+        "主題可自訂",
+        "提供無障礙元件",
+        "支援元件原始碼匯出"
       ],
-      "comment": "老闆，介面積木先備好，改版就少一點東拼西湊！"
+      "comment": "老闆，介面積木備齊了，這次不用每顆按鈕都重造！"
     },
     {
       "rank": 2,
-      "repo": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "starsToday": 1589,
-      "starsTotal": 19608,
-      "language": "TypeScript",
-      "tagline": "用聊天介面管理多位 AI 代理",
-      "summary": "把 Claude、Codex 等本機代理放進聊天應用程式，各自搭配模型、電腦與連接的應用；提供操作核准卡與對話管理功能。",
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "starsToday": 1676,
+      "starsTotal": 192263,
+      "language": "Python",
+      "tagline": "替 Claude 準備可重用技能",
+      "summary": "將指令、腳本與資源封裝成技能資料夾，提供文件編輯、設計與開發等範例，讓 Claude 動態載入任務所需的方法。",
       "highlights": [
-        "沿用本機代理登入",
-        "提供操作核准卡",
-        "支援雲端與隔離虛擬機"
+        "文件製作與編輯",
+        "技能範本與規格",
+        "涵蓋開發及設計"
       ],
-      "comment": "老闆，代理也能像聯絡人一樣管理，派工前記得看核准卡！"
+      "comment": "老闆，把常用做法教一次，下回就有技能本可翻了！"
     },
     {
       "rank": 3,
-      "repo": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "starsToday": 1247,
-      "starsTotal": 106108,
-      "language": "Python",
-      "tagline": "在自己的裝置處理語音創作",
-      "summary": "提供語音複製、聲音設計、影片配音、聽寫、轉錄與有聲書製作，可下載所需模型在本機執行，並透過本機 API 串接流程。",
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "starsToday": 1223,
+      "starsTotal": 320858,
+      "language": "Shell",
+      "tagline": "可組合的工程代理技能集",
+      "summary": "收錄可調整、可組合的代理技能，協助軟體工程工作，支援多種代理工具，並可設定議題追蹤方式與文件存放位置。",
       "highlights": [
-        "語音複製與聲音設計",
-        "影片翻譯配音",
-        "本機模型管理"
+        "技能可組合",
+        "支援多種代理",
+        "可調整專案設定"
       ],
-      "comment": "老闆，旁白工作室搬進電腦了，先拿有授權的聲音試試！"
+      "comment": "老闆，先挑合用的幾招，別讓工具箱比專案還複雜！"
     },
     {
       "rank": 4,
-      "repo": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "starsToday": 1052,
-      "starsTotal": 190885,
-      "language": "Python",
-      "tagline": "讓 Claude 按步驟完成專門任務",
-      "summary": "以指令、腳本與資源組成可動態載入的技能，收錄文件編輯、網頁測試與設計等範例，供開發者參考並建立可重複使用的工作流程。",
+      "repo": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "starsToday": 1220,
+      "starsTotal": 20601,
+      "language": "TypeScript",
+      "tagline": "在聊天介面管理多位 AI 代理",
+      "summary": "以聊天應用程式管理多位代理，可使用本機 Claude 或 Codex，並搭配雲端桌面或隔離虛擬機與連接的應用程式。",
       "highlights": [
-        "文件處理技能",
-        "技能範本與規格",
-        "支援自訂工作流程"
+        "多代理聊天介面",
+        "本機優先",
+        "可搭配隔離虛擬機"
       ],
-      "comment": "老闆，重複任務先寫成技能，下次就不用從頭交代啦！"
+      "comment": "老闆，幫手可以分工了，重要操作還是記得看一眼！"
     },
     {
       "rank": 5,
-      "repo": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "starsToday": 914,
-      "starsTotal": 48417,
-      "language": "Rust",
-      "tagline": "讓 AI 代理從命令列操作瀏覽器",
-      "summary": "以 Rust 命令列工具開啟網頁，將頁面轉成帶有元素參照的精簡文字，讓代理逐步點擊、輸入並重新讀取結果，瀏覽器可跨指令維持開啟。",
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "starsToday": 1211,
+      "starsTotal": 107210,
+      "language": "Python",
+      "tagline": "在自己的裝置處理語音創作",
+      "summary": "提供本機語音複製、聲音設計、影片配音、轉錄與有聲書製作，可選擇所需模型，並透過本機 API 或 MCP 串接自動化。",
       "highlights": [
-        "精簡頁面快照",
-        "元素參照操作",
-        "跨指令保留瀏覽器"
+        "語音複製與設計",
+        "影片翻譯配音",
+        "支援本機自動化"
       ],
-      "comment": "老闆，點完再看一眼結果，瀏覽器代理也得認真驗收！"
+      "comment": "老闆，旁白工具箱又多一格，先拿授權錄音試試吧！"
     }
   ],
   "quote": "榜單取自八頁今日熱門樣本"
