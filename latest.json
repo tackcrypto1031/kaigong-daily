@@ -1,93 +1,93 @@
 {
   "v": 1,
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "headline": {
-    "kicker": "共用積木",
-    "title": "Astryx 讓人與代理共築介面",
-    "deck": "可自訂的 React 設計系統，整合元件、主題與命令列工具。",
-    "image": "img/2026-11-12.webp"
+    "kicker": "協作設計",
+    "title": "Astryx 讓人與代理共用設計元件",
+    "deck": "以 React 元件、主題與命令列工具，打造可客製化的介面。",
+    "image": "img/2026-11-13.webp"
   },
   "repos": [
     {
       "rank": 1,
       "repo": "meta/astryx",
       "url": "https://github.com/meta/astryx",
-      "starsToday": 2842,
-      "starsTotal": 24868,
-      "tagline": "讓人與代理共用介面元件",
-      "summary": "Astryx 是基於 React 的開源設計系統，提供逾 150 個無障礙元件、主題與範本，讓開發者和 AI 助手使用同一套文件及工具。",
+      "starsToday": 1830,
+      "starsTotal": 26604,
+      "language": "TypeScript",
+      "tagline": "讓人與代理共用設計元件",
+      "summary": "Meta 開源的可客製化設計系統，提供 React 元件、主題與命令列工具，讓開發者和程式代理使用同一套介面資源。",
       "highlights": [
-        "可自訂品牌主題",
-        "支援深色模式",
-        "元件原始碼可匯出"
+        "可客製化主題",
+        "無障礙介面元件",
+        "命令列工具"
       ],
-      "comment": "老闆，介面積木先備好，人和代理就能一起開工啦！",
-      "language": "TypeScript"
+      "comment": "老闆，元件先對齊，介面就不用每天重新發明啦。"
     },
     {
       "rank": 2,
-      "repo": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "starsToday": 1249,
-      "starsTotal": 321986,
-      "tagline": "把工程習慣變成代理技能",
-      "summary": "Matt Pocock 的代理技能集涵蓋需求釐清、測試驅動開發、除錯與架構檢視；技能可調整、組合，並提供多種程式代理的安裝方式。",
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "starsToday": 1294,
+      "starsTotal": 71095,
+      "language": "Python",
+      "tagline": "把多市場資訊整理成分析報告",
+      "summary": "以大型語言模型整合股價、技術指標、新聞與基本面，支援多個市場的股票與 ETF，提供分析報告和網頁工作台。",
       "highlights": [
-        "先釐清需求",
-        "測試驅動開發",
-        "建立共用詞彙"
+        "多市場股票分析",
+        "整合新聞與技術指標",
+        "排程產生報告"
       ],
-      "comment": "老闆，先把需求問清楚，少一輪重做就多一口咖啡！",
-      "language": "Shell"
+      "comment": "老闆，報告能幫忙整理，投資判斷還是得自己把關。"
     },
     {
       "rank": 3,
-      "repo": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "starsToday": 1093,
-      "starsTotal": 193100,
-      "tagline": "教 Claude 處理專門任務",
-      "summary": "Anthropic 的技能範例將指令、腳本與資源整理成資料夾，涵蓋文件編輯、設計、網頁測試等用途，也提供建立自訂技能的範本。",
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "starsToday": 1048,
+      "starsTotal": 323042,
+      "language": "Shell",
+      "tagline": "把工程習慣拆成代理技能",
+      "summary": "提供可組合的程式代理技能，涵蓋需求釐清、規格撰寫、測試驅動開發、除錯與程式碼審查，協助安排開發流程。",
       "highlights": [
-        "文件編輯範例",
-        "技能範本",
-        "網頁測試"
+        "需求釐清",
+        "測試驅動開發",
+        "程式碼審查"
       ],
-      "comment": "老闆，技能包先試跑，合用再交給它正式上工喔！",
-      "language": "Python"
+      "comment": "老闆，先把需求問清楚，少走的彎路就是省下的加班。"
     },
     {
       "rank": 4,
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "starsToday": 788,
-      "starsTotal": 115894,
-      "tagline": "替程式代理安排工程流程",
-      "summary": "將需求定義、規劃、實作、測試、審查與發布整理為代理技能，搭配指令與品質檢查，協助程式代理依階段完成開發。",
+      "starsToday": 816,
+      "starsTotal": 116701,
+      "language": "JavaScript",
+      "tagline": "讓代理沿著工程流程做事",
+      "summary": "收錄工程技能，從規格、規劃、實作到測試、審查與交付，透過技能指令和品質檢查點引導程式代理工作。",
       "highlights": [
-        "需求先行",
-        "逐步實作",
-        "測試與審查"
+        "涵蓋開發生命週期",
+        "技能指令",
+        "品質檢查點"
       ],
-      "comment": "老闆，衝進度也要過檢查，免得下班前收到驚喜！",
-      "language": "JavaScript"
+      "comment": "老闆，代理也要照流程走，別把交付當成許願池。"
     },
     {
       "rank": 5,
-      "repo": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "starsToday": 712,
-      "starsTotal": 49829,
-      "tagline": "用命令列讓代理操作瀏覽器",
-      "summary": "以 Rust 打造的瀏覽器自動化命令列工具，把頁面轉成含元素參照的文字快照，讓 AI 代理逐步點擊、輸入並檢查操作結果。",
+      "repo": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "starsToday": 739,
+      "starsTotal": 3083,
+      "language": "TypeScript",
+      "tagline": "替程式代理補上現代網頁指南",
+      "summary": "Modern Web Guidance 的原始碼與文件庫，提供現代瀏覽器 API、效能、無障礙及相容性指南，並支援命令列搜尋。",
       "highlights": [
-        "元素文字快照",
-        "逐步操作驗證",
-        "瀏覽器工作階段"
+        "現代瀏覽器指南",
+        "命令列搜尋",
+        "無障礙與相容性"
       ],
-      "comment": "老闆，網頁按完別急著慶功，讓它再看一眼結果！",
-      "language": "Rust"
+      "comment": "老闆，先翻最新指南，少讓代理用老方法修新網頁。"
     }
   ],
-  "quote": "榜單取自八頁今日熱門樣本"
+  "quote": "先把工具磨好，再把事情做好"
 }
