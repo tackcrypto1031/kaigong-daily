@@ -1,0 +1,89 @@
+{
+  "v": 1,
+  "date": "2026-11-14",
+  "headline": {
+    "kicker": "網頁新知",
+    "title": "現代網頁指引讓代理少走舊路",
+    "deck": "提供指引原始碼、文件與評測，將瀏覽器最佳實務帶入程式代理。",
+    "image": "img/2026-11-14.webp"
+  },
+  "repos": [
+    {
+      "repo": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "starsToday": 1875,
+      "starsTotal": 4759,
+      "language": "TypeScript",
+      "rank": 1,
+      "tagline": "讓程式代理跟上現代網頁",
+      "summary": "提供現代網頁開發指引的原始碼、文件與評測工具，將瀏覽器相容性及最佳實務帶入程式代理。",
+      "highlights": [
+        "查找與擷取開發指引",
+        "掃描舊式網頁寫法",
+        "涵蓋效能與無障礙"
+      ],
+      "comment": "老闆，先讓代理翻翻新手冊，別把舊招當祖傳秘方。"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "starsToday": 1048,
+      "starsTotal": 323785,
+      "language": "Shell",
+      "rank": 2,
+      "tagline": "可自由組合的工程技能",
+      "summary": "收錄日常軟體工程使用的代理技能，強調小巧、可調整與可組合，讓開發者保留流程控制權。",
+      "highlights": [
+        "支援多種程式代理",
+        "技能可編輯與組合"
+      ],
+      "comment": "老闆，工具箱自己配，流程才不會反過來管你。"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "starsToday": 895,
+      "starsTotal": 69867,
+      "language": "Python",
+      "rank": 3,
+      "tagline": "串接多家模型的程式工具橋梁",
+      "summary": "將程式代理工具接到不同模型供應商，支援串流、工具使用與自動備援；免費額度依各供應商規定。",
+      "highlights": [
+        "多模型供應商串接",
+        "支援自動重試與備援"
+      ],
+      "comment": "老闆，換模型不用換工作習慣，額度還是得看清楚。"
+    },
+    {
+      "repo": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "starsToday": 799,
+      "starsTotal": 12095,
+      "language": "TypeScript",
+      "rank": 4,
+      "tagline": "可自行部署的人工智慧工作區",
+      "summary": "提供模組化的人工智慧同事工作區，可選模型、接入代理，並搭配瀏覽器、工具、核准與稽核機制。",
+      "highlights": [
+        "可自行部署",
+        "接入既有代理與工具"
+      ],
+      "comment": "老闆，幫數位同事備好工位，也別忘了核准規矩。"
+    },
+    {
+      "repo": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "starsToday": 783,
+      "starsTotal": 115015,
+      "language": "JavaScript",
+      "rank": 5,
+      "tagline": "替程式代理補上網頁設計觀念",
+      "summary": "以代理技能提供網頁設計規則，涵蓋視覺方向、圖片與互動，並透過實際瀏覽器檢查完成度。",
+      "highlights": [
+        "整合視覺與互動規則",
+        "用瀏覽器檢查成果"
+      ],
+      "comment": "老闆，版型別只求能看，交稿前也要親自逛一圈。"
+    }
+  ],
+  "quote": "新工具上工，老習慣也更新"
+}
