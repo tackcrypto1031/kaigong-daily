@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "date": "2026-11-15",
+  "headline": {
+    "kicker": "網頁新知",
+    "title": "Chrome 網頁指引讓代理學新招",
+    "deck": "把現代網頁實務與瀏覽器相容性知識，帶進程式代理的工作流程。",
+    "image": "img/2026-11-15.webp"
+  },
+  "repos": [
+    {
+      "rank": 1,
+      "repo": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "starsToday": 1225,
+      "starsTotal": 5962,
+      "language": "TypeScript",
+      "tagline": "讓程式代理跟上現代網頁實務",
+      "summary": "收錄現代網頁指引的原始碼、文件與評估工具，將網頁平台知識、最佳實務及瀏覽器相容性資訊帶進程式代理。",
+      "highlights": [
+        "搜尋與擷取網頁指引",
+        "掃描舊式程式模式",
+        "涵蓋效能與無障礙設計"
+      ],
+      "comment": "老闆，先讓代理讀新教材，別再拿舊招蓋新網頁啦！"
+    },
+    {
+      "rank": 2,
+      "repo": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "starsToday": 897,
+      "starsTotal": 51391,
+      "language": "Go",
+      "tagline": "結合模型與程式脈絡的程式碼審查",
+      "summary": "讀取 Git 差異並結合程式庫脈絡，由可設定的語言模型產生逐行審查意見，也能掃描完整檔案。",
+      "highlights": [
+        "逐行提供審查意見",
+        "可讀取與搜尋程式庫",
+        "支援完整檔案掃描"
+      ],
+      "comment": "老闆，改動先多看一眼，別等小問題長成大工單！"
+    },
+    {
+      "rank": 3,
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "starsToday": 724,
+      "starsTotal": 324468,
+      "language": "Shell",
+      "tagline": "可組合的日常工程代理技能",
+      "summary": "整理可調整、可組合的工程技能，涵蓋規格整理、任務拆解、測試驅動開發、除錯與程式碼審查。",
+      "highlights": [
+        "規格整理與任務拆解",
+        "測試驅動開發",
+        "架構檢視與程式碼審查"
+      ],
+      "comment": "老闆，工具箱備齊了，這次讓代理照工程步驟來！"
+    },
+    {
+      "rank": 4,
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "starsToday": 673,
+      "starsTotal": 56260,
+      "language": "TypeScript",
+      "tagline": "把瀏覽器開發工具交給程式代理",
+      "summary": "透過 MCP 伺服器或命令列，讓程式代理操作與檢查 Chrome，分析網路請求、主控台訊息及效能紀錄。",
+      "highlights": [
+        "擷取畫面與檢查請求",
+        "記錄與分析效能",
+        "自動化瀏覽器操作"
+      ],
+      "comment": "老闆，網頁哪裡卡住，讓代理打開工具查個明白！"
+    },
+    {
+      "rank": 5,
+      "repo": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "starsToday": 599,
+      "starsTotal": 13530,
+      "language": "TypeScript",
+      "tagline": "掃描、驗證與修補程式漏洞",
+      "summary": "提供命令列與 TypeScript SDK，可掃描程式庫、路徑或 Git 變更，驗證漏洞線索、產生修補並確認修正。",
+      "highlights": [
+        "掃描與驗證漏洞",
+        "產生及確認修補",
+        "匯出掃描結果"
+      ],
+      "comment": "老闆，漏洞先驗證再修補，別讓警報聲帶著我們跑！"
+    }
+  ],
+  "quote": "八頁候選樣本，按今日星數排序"
+}
