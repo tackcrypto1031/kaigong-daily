@@ -1,93 +1,93 @@
 {
   "v": 1,
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "headline": {
     "kicker": "網頁新知",
-    "title": "Chrome 網頁指引讓代理學新招",
-    "deck": "把現代網頁實務與瀏覽器相容性知識，帶進程式代理的工作流程。",
-    "image": "img/2026-11-15.webp"
+    "title": "Google 網頁指南助代理更新寫法",
+    "deck": "提供現代瀏覽器功能、相容性與無障礙指南，協助程式代理改用新寫法。",
+    "image": "img/2026-11-16.webp"
   },
   "repos": [
     {
       "rank": 1,
       "repo": "GoogleChrome/modern-web-guidance-src",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "starsToday": 1225,
-      "starsTotal": 5962,
+      "starsToday": 1220,
+      "starsTotal": 7101,
       "language": "TypeScript",
-      "tagline": "讓程式代理跟上現代網頁實務",
-      "summary": "收錄現代網頁指引的原始碼、文件與評估工具，將網頁平台知識、最佳實務及瀏覽器相容性資訊帶進程式代理。",
+      "tagline": "把現代網頁知識交給程式代理",
+      "summary": "提供網頁開發技能指南的原始碼與評測工具，將現代瀏覽器功能、相容性、效能和無障礙實作帶入程式代理。",
       "highlights": [
-        "搜尋與擷取網頁指引",
-        "掃描舊式程式模式",
-        "涵蓋效能與無障礙設計"
+        "搜尋與擷取開發指南",
+        "掃描舊式程式寫法",
+        "評測指南效果"
       ],
-      "comment": "老闆，先讓代理讀新教材，別再拿舊招蓋新網頁啦！"
+      "comment": "老闆，先替代理補上新知識，別讓新專案穿舊鞋。"
     },
     {
       "rank": 2,
-      "repo": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "starsToday": 897,
-      "starsTotal": 51391,
-      "language": "Go",
-      "tagline": "結合模型與程式脈絡的程式碼審查",
-      "summary": "讀取 Git 差異並結合程式庫脈絡，由可設定的語言模型產生逐行審查意見，也能掃描完整檔案。",
+      "repo": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "starsToday": 1041,
+      "starsTotal": 25567,
+      "language": "TypeScript",
+      "tagline": "把試算表與文件嵌進產品",
+      "summary": "提供可擴充的辦公編輯器核心，支援試算表公式與文件編輯，也能透過介面供代理操作；協作等商業擴充另行授權。",
       "highlights": [
-        "逐行提供審查意見",
-        "可讀取與搜尋程式庫",
-        "支援完整檔案掃描"
+        "試算表公式與篩選",
+        "文件編輯與復原",
+        "可供代理呼叫"
       ],
-      "comment": "老闆，改動先多看一眼，別等小問題長成大工單！"
+      "comment": "老闆，表格不用重造輪子，先看清開源與商用範圍。"
     },
     {
       "rank": 3,
-      "repo": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "starsToday": 724,
-      "starsTotal": 324468,
-      "language": "Shell",
-      "tagline": "可組合的日常工程代理技能",
-      "summary": "整理可調整、可組合的工程技能，涵蓋規格整理、任務拆解、測試驅動開發、除錯與程式碼審查。",
+      "repo": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "starsToday": 860,
+      "starsTotal": 11800,
+      "language": "TypeScript",
+      "tagline": "標註計畫並把意見交回代理",
+      "summary": "在本機瀏覽器審閱代理提出的計畫、文件、網頁成品與程式差異，加入標註和評論，再將回饋送回原本的代理。",
       "highlights": [
-        "規格整理與任務拆解",
-        "測試驅動開發",
-        "架構檢視與程式碼審查"
+        "計畫與成品標註",
+        "程式差異審查",
+        "集中代理回饋"
       ],
-      "comment": "老闆，工具箱備齊了，這次讓代理照工程步驟來！"
+      "comment": "老闆，想改哪裡直接圈起來，比隔空比手畫腳省事。"
     },
     {
       "rank": 4,
       "repo": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "starsToday": 673,
-      "starsTotal": 56260,
+      "starsToday": 718,
+      "starsTotal": 56883,
       "language": "TypeScript",
-      "tagline": "把瀏覽器開發工具交給程式代理",
-      "summary": "透過 MCP 伺服器或命令列，讓程式代理操作與檢查 Chrome，分析網路請求、主控台訊息及效能紀錄。",
+      "tagline": "讓代理使用瀏覽器開發工具",
+      "summary": "透過 MCP 伺服器與命令列工具，讓程式代理操作 Chrome、檢查網路請求與主控台，擷取畫面並分析效能追蹤。",
       "highlights": [
-        "擷取畫面與檢查請求",
-        "記錄與分析效能",
-        "自動化瀏覽器操作"
+        "瀏覽器操作",
+        "網路與主控台除錯",
+        "效能追蹤分析"
       ],
-      "comment": "老闆，網頁哪裡卡住，讓代理打開工具查個明白！"
+      "comment": "老闆，網頁哪裡卡住，讓代理帶著工具去現場看。"
     },
     {
       "rank": 5,
-      "repo": "openai/codex-security",
-      "url": "https://github.com/openai/codex-security",
-      "starsToday": 599,
-      "starsTotal": 13530,
-      "language": "TypeScript",
-      "tagline": "掃描、驗證與修補程式漏洞",
-      "summary": "提供命令列與 TypeScript SDK，可掃描程式庫、路徑或 Git 變更，驗證漏洞線索、產生修補並確認修正。",
+      "repo": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "starsToday": 707,
+      "starsTotal": 5490,
+      "language": "Python",
+      "tagline": "整理投資研究與交易檢討流程",
+      "summary": "為 Claude 提供市場檢視、風險管理、交易規劃與紀錄技能，協助個人投資人整理決策流程；不是自動下單或獲利保證。",
       "highlights": [
-        "掃描與驗證漏洞",
-        "產生及確認修補",
-        "匯出掃描結果"
+        "市場與風險檢視",
+        "交易紀錄回顧",
+        "策略研究流程"
       ],
-      "comment": "老闆，漏洞先驗證再修補，別讓警報聲帶著我們跑！"
+      "comment": "老闆，研究可以請代理幫忙，下單判斷還是得自己守。"
     }
   ],
-  "quote": "八頁候選樣本，按今日星數排序"
+  "quote": "工具常更新，判斷別下線。"
 }
