@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "date": "2026-11-17",
+  "headline": {
+    "kicker": "辦公積木",
+    "title": "Univer 把辦公編輯帶進產品",
+    "deck": "以開源試算表與文件核心，串接自家應用、公式運算與代理。",
+    "image": "img/2026-11-17.webp"
+  },
+  "repos": [
+    {
+      "rank": 1,
+      "repo": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "starsToday": 1878,
+      "starsTotal": 27739,
+      "language": "TypeScript",
+      "tagline": "把試算表與文件嵌入你的產品",
+      "summary": "提供試算表、文件編輯與公式運算的開源核心，可透過 API 連接自家應用與代理；協作及部分進階功能另行授權。",
+      "highlights": [
+        "試算表與文件編輯",
+        "公式與外掛架構",
+        "可接自家代理"
+      ],
+      "comment": "老闆，報表不用從零刻，先分清開源與商用功能喔。"
+    },
+    {
+      "rank": 2,
+      "repo": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "starsToday": 1200,
+      "starsTotal": 7954,
+      "language": "TypeScript",
+      "tagline": "替程式代理補上現代網頁知識",
+      "summary": "收錄現代網頁 API、瀏覽器相容性與最佳實務，提供指南搜尋及舊寫法掃描；此庫負責指南的編寫、校準與評估。",
+      "highlights": [
+        "指南搜尋與擷取",
+        "舊寫法掃描",
+        "效能與無障礙實務"
+      ],
+      "comment": "老闆，別讓代理還在寫古早網頁，先查新招再開工。"
+    },
+    {
+      "rank": 3,
+      "repo": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "starsToday": 1057,
+      "starsTotal": 7394,
+      "language": "Python",
+      "tagline": "支援授權資安測試的技能套件",
+      "summary": "為 Claude Code 整理漏洞研究、驗證與報告技能，結合已揭露案例與證據整理流程；僅應在取得授權的範圍使用。",
+      "highlights": [
+        "漏洞研究技能",
+        "驗證與報告",
+        "證據整理"
+      ],
+      "comment": "老闆，找漏洞也要先確認授權，範圍畫好再開始。"
+    },
+    {
+      "rank": 4,
+      "repo": "Tencent/LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
+      "starsToday": 1016,
+      "starsTotal": 2314,
+      "language": "Go",
+      "tagline": "把代理開發流程變成可重跑的 SOP",
+      "summary": "自架工作空間整合程式代理、腳本與人工核准關卡，以沙盒執行規劃、實作、審查和測試，保存各階段紀錄。",
+      "highlights": [
+        "沙盒隔離執行",
+        "人工核准關卡",
+        "可重試與續跑"
+      ],
+      "comment": "老闆，把好用的派工流程存下來，下次少走冤枉路。"
+    },
+    {
+      "rank": 5,
+      "repo": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "starsToday": 953,
+      "starsTotal": 2623,
+      "language": "Python",
+      "tagline": "量測技能是否真的幫到代理",
+      "summary": "以品質檢查、語意重複分析及實際代理測試評估技能，能比較有無技能的任務成果；完整評估需要額外環境與模型。",
+      "highlights": [
+        "品質檢查",
+        "語意重複分析",
+        "實際效果比較"
+      ],
+      "comment": "老闆，技能不是裝越多越好，先量看看有沒有幫上忙。"
+    }
+  ],
+  "quote": "讓流程可重用，讓成果可驗證"
+}
