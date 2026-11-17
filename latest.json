@@ -1,93 +1,93 @@
 {
   "v": 1,
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "headline": {
     "kicker": "辦公積木",
-    "title": "Univer 把辦公編輯帶進產品",
-    "deck": "以開源試算表與文件核心，串接自家應用、公式運算與代理。",
-    "image": "img/2026-11-17.webp"
+    "title": "Univer 讓產品長出辦公工具",
+    "deck": "八頁日榜候選樣本第一名，以開源核心嵌入試算表、文件編輯與公式運算。",
+    "image": "img/2026-11-18.webp"
   },
   "repos": [
     {
       "rank": 1,
       "repo": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
-      "starsToday": 1878,
-      "starsTotal": 27739,
+      "starsToday": 1776,
+      "starsTotal": 28879,
       "language": "TypeScript",
-      "tagline": "把試算表與文件嵌入你的產品",
-      "summary": "提供試算表、文件編輯與公式運算的開源核心，可透過 API 連接自家應用與代理；協作及部分進階功能另行授權。",
+      "tagline": "把試算表與文件嵌進自己的產品",
+      "summary": "提供試算表、文件編輯與公式運算的開源核心，可接上既有代理；協作伺服器及部分進階功能另行授權。",
       "highlights": [
         "試算表與文件編輯",
         "公式與外掛架構",
-        "可接自家代理"
+        "可連接既有代理"
       ],
-      "comment": "老闆，報表不用從零刻，先分清開源與商用功能喔。"
+      "comment": "老闆，先用開源核心試做，進階功能記得看授權。"
     },
     {
       "rank": 2,
-      "repo": "GoogleChrome/modern-web-guidance-src",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "starsToday": 1200,
-      "starsTotal": 7954,
+      "repo": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "starsToday": 1444,
+      "starsTotal": 19970,
       "language": "TypeScript",
-      "tagline": "替程式代理補上現代網頁知識",
-      "summary": "收錄現代網頁 API、瀏覽器相容性與最佳實務，提供指南搜尋及舊寫法掃描；此庫負責指南的編寫、校準與評估。",
+      "tagline": "連接代理與應用程式的事件協定",
+      "summary": "以雙向事件串流統一代理與前端溝通，涵蓋文字串流、工具呼叫、共享狀態與人工介入，減少各框架各接一套。",
       "highlights": [
-        "指南搜尋與擷取",
-        "舊寫法掃描",
-        "效能與無障礙實務"
+        "雙向事件串流",
+        "共享狀態同步",
+        "人工介入流程"
       ],
-      "comment": "老闆，別讓代理還在寫古早網頁，先查新招再開工。"
+      "comment": "老闆，代理換框架時，前端不必每次重新接線。"
     },
     {
       "rank": 3,
-      "repo": "elementalsouls/Claude-BugHunter",
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "starsToday": 1057,
-      "starsTotal": 7394,
+      "repo": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "starsToday": 1376,
+      "starsTotal": 7722,
       "language": "Python",
-      "tagline": "支援授權資安測試的技能套件",
-      "summary": "為 Claude Code 整理漏洞研究、驗證與報告技能，結合已揭露案例與證據整理流程；僅應在取得授權的範圍使用。",
+      "tagline": "讓程式代理在本機剪輯影音",
+      "summary": "用本機 FFmpeg 提供剪接、字幕、畫面比例調整與音量標準化工具，並檢查輸出；可透過技能或 MCP 呼叫。",
       "highlights": [
-        "漏洞研究技能",
-        "驗證與報告",
-        "證據整理"
+        "本機影音處理",
+        "剪接字幕與轉檔",
+        "輸出規格檢查"
       ],
-      "comment": "老闆，找漏洞也要先確認授權，範圍畫好再開始。"
+      "comment": "老闆，重複轉檔可交給工具，剪輯節奏還是你來把關。"
     },
     {
       "rank": 4,
-      "repo": "Tencent/LoopForge",
-      "url": "https://github.com/Tencent/LoopForge",
-      "starsToday": 1016,
-      "starsTotal": 2314,
-      "language": "Go",
-      "tagline": "把代理開發流程變成可重跑的 SOP",
-      "summary": "自架工作空間整合程式代理、腳本與人工核准關卡，以沙盒執行規劃、實作、審查和測試，保存各階段紀錄。",
+      "repo": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "starsToday": 1175,
+      "starsTotal": 2918,
+      "language": "Python",
+      "tagline": "多代理協作整理研究論文",
+      "summary": "把研究構想與實驗紀錄整理成 LaTeX 論文，分工處理大綱、文獻、段落與圖表；生成內容仍需研究者查核。",
       "highlights": [
-        "沙盒隔離執行",
-        "人工核准關卡",
-        "可重試與續跑"
+        "大綱與文獻整理",
+        "分工撰寫與修訂",
+        "生成研究圖表"
       ],
-      "comment": "老闆，把好用的派工流程存下來，下次少走冤枉路。"
+      "comment": "老闆，論文草稿有人幫忙，引用與結論仍得親自核對。"
     },
     {
       "rank": 5,
-      "repo": "NVIDIA/SkillEvaluator",
-      "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "starsToday": 953,
-      "starsTotal": 2623,
-      "language": "Python",
-      "tagline": "量測技能是否真的幫到代理",
-      "summary": "以品質檢查、語意重複分析及實際代理測試評估技能，能比較有無技能的任務成果；完整評估需要額外環境與模型。",
+      "repo": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "starsToday": 1052,
+      "starsTotal": 127800,
+      "language": "TypeScript",
+      "tagline": "多個程式代理的整合工作桌",
+      "summary": "在獨立工作樹中並行使用程式代理，整合對話、終端機、差異審查與瀏覽器，也支援遠端環境及手機接續操作。",
       "highlights": [
-        "品質檢查",
-        "語意重複分析",
-        "實際效果比較"
+        "獨立工作樹並行",
+        "整合程式差異審查",
+        "支援遠端與手機"
       ],
-      "comment": "老闆，技能不是裝越多越好，先量看看有沒有幫上忙。"
+      "comment": "老闆，多路代理一起開工，記得留時間審查成果。"
     }
   ],
-  "quote": "讓流程可重用，讓成果可驗證"
+  "quote": "工具替你省工，判斷仍由你掌舵。"
 }
