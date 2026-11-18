@@ -1,93 +1,93 @@
 {
   "v": 1,
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "headline": {
-    "kicker": "辦公積木",
-    "title": "Univer 讓產品長出辦公工具",
-    "deck": "八頁日榜候選樣本第一名，以開源核心嵌入試算表、文件編輯與公式運算。",
-    "image": "img/2026-11-18.webp"
+    "kicker": "資安助手",
+    "title": "Claude-BugHunter協助查漏洞",
+    "deck": "八頁日榜樣本首位，整合授權測試、漏洞驗證與報告技能的資安研究工具箱。",
+    "image": "img/2026-11-19.webp"
   },
   "repos": [
     {
       "rank": 1,
-      "repo": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "starsToday": 1776,
-      "starsTotal": 28879,
-      "language": "TypeScript",
-      "tagline": "把試算表與文件嵌進自己的產品",
-      "summary": "提供試算表、文件編輯與公式運算的開源核心，可接上既有代理；協作伺服器及部分進階功能另行授權。",
+      "repo": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "starsToday": 2322,
+      "starsTotal": 11293,
+      "language": "Python",
+      "tagline": "替程式代理備好資安查核工具",
+      "summary": "提供 Claude Code 使用的資安技能與指令，整理漏洞研究模式，涵蓋授權測試、驗證、報告與證據整理。",
       "highlights": [
-        "試算表與文件編輯",
-        "公式與外掛架構",
-        "可連接既有代理"
+        "漏洞研究技能",
+        "驗證與報告流程",
+        "證據整理"
       ],
-      "comment": "老闆，先用開源核心試做，進階功能記得看授權。"
+      "comment": "老闆，抓蟲也要有章法，先確認測試授權再出動！"
     },
     {
       "rank": 2,
-      "repo": "ag-ui-protocol/ag-ui",
-      "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "starsToday": 1444,
-      "starsTotal": 19970,
-      "language": "TypeScript",
-      "tagline": "連接代理與應用程式的事件協定",
-      "summary": "以雙向事件串流統一代理與前端溝通，涵蓋文字串流、工具呼叫、共享狀態與人工介入，減少各框架各接一套。",
+      "repo": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "starsToday": 1529,
+      "starsTotal": 4226,
+      "language": "Python",
+      "tagline": "多代理協作整理研究論文",
+      "summary": "把研究構想與實驗紀錄整理成 LaTeX 論文，分工處理大綱、文獻、章節撰寫、內容修訂與圖表。",
       "highlights": [
-        "雙向事件串流",
-        "共享狀態同步",
-        "人工介入流程"
+        "多代理分工",
+        "文獻整合",
+        "圖表生成"
       ],
-      "comment": "老闆，代理換框架時，前端不必每次重新接線。"
+      "comment": "老闆，草稿有人幫忙整理，研究結論還是要親自把關喔！"
     },
     {
       "rank": 3,
-      "repo": "kajisho5/ffmpeg-skill",
-      "url": "https://github.com/kajisho5/ffmpeg-skill",
-      "starsToday": 1376,
-      "starsTotal": 7722,
-      "language": "Python",
-      "tagline": "讓程式代理在本機剪輯影音",
-      "summary": "用本機 FFmpeg 提供剪接、字幕、畫面比例調整與音量標準化工具，並檢查輸出；可透過技能或 MCP 呼叫。",
+      "repo": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "starsToday": 1264,
+      "starsTotal": 65191,
+      "language": "TypeScript",
+      "tagline": "手機也能接手程式代理工作",
+      "summary": "讓電腦上的程式代理共用操作介面，支援桌面、網頁與手機，方便查看任務、審核下一步及檢視程式差異。",
       "highlights": [
-        "本機影音處理",
-        "剪接字幕與轉檔",
-        "輸出規格檢查"
+        "跨裝置接手",
+        "支援多種代理",
+        "內建差異檢視"
       ],
-      "comment": "老闆，重複轉檔可交給工具，剪輯節奏還是你來把關。"
+      "comment": "老闆，離開座位也能接手，但下班可別一直盯手機！"
     },
     {
       "rank": 4,
-      "repo": "google-research/paper-orchestra",
-      "url": "https://github.com/google-research/paper-orchestra",
-      "starsToday": 1175,
-      "starsTotal": 2918,
-      "language": "Python",
-      "tagline": "多代理協作整理研究論文",
-      "summary": "把研究構想與實驗紀錄整理成 LaTeX 論文，分工處理大綱、文獻、段落與圖表；生成內容仍需研究者查核。",
+      "repo": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "starsToday": 1162,
+      "starsTotal": 29871,
+      "language": "TypeScript",
+      "tagline": "把試算表與文件放進自家產品",
+      "summary": "提供開源試算表、文件編輯與公式引擎，可透過 API 接上應用程式或代理；協作等部分擴充另有商業授權。",
       "highlights": [
-        "大綱與文獻整理",
-        "分工撰寫與修訂",
-        "生成研究圖表"
+        "試算表與文件",
+        "公式計算",
+        "可擴充架構"
       ],
-      "comment": "老闆，論文草稿有人幫忙，引用與結論仍得親自核對。"
+      "comment": "老闆，辦公工具能自己組裝，記得先分清開源與付費範圍！"
     },
     {
       "rank": 5,
-      "repo": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "starsToday": 1052,
-      "starsTotal": 127800,
-      "language": "TypeScript",
-      "tagline": "多個程式代理的整合工作桌",
-      "summary": "在獨立工作樹中並行使用程式代理，整合對話、終端機、差異審查與瀏覽器，也支援遠端環境及手機接續操作。",
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "starsToday": 1109,
+      "starsTotal": 306451,
+      "language": "JavaScript",
+      "tagline": "替程式代理建立工程工作流程",
+      "summary": "整合規劃、測試、審查、記憶與技能，協助程式代理建立可重複使用的工程流程，各平台支援程度不同。",
       "highlights": [
-        "獨立工作樹並行",
-        "整合程式差異審查",
-        "支援遠端與手機"
+        "規劃與測試",
+        "記憶與技能",
+        "安全檢查"
       ],
-      "comment": "老闆，多路代理一起開工，記得留時間審查成果。"
+      "comment": "老闆，工具箱很豐富，先挑用得到的，別一次全搬進來！"
     }
   ],
-  "quote": "工具替你省工，判斷仍由你掌舵。"
+  "quote": "工具備齊，判斷仍要到位。"
 }

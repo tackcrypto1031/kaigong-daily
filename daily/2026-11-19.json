@@ -1,0 +1,93 @@
+{
+  "v": 1,
+  "date": "2026-11-19",
+  "headline": {
+    "kicker": "資安助手",
+    "title": "Claude-BugHunter協助查漏洞",
+    "deck": "八頁日榜樣本首位，整合授權測試、漏洞驗證與報告技能的資安研究工具箱。",
+    "image": "img/2026-11-19.webp"
+  },
+  "repos": [
+    {
+      "rank": 1,
+      "repo": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "starsToday": 2322,
+      "starsTotal": 11293,
+      "language": "Python",
+      "tagline": "替程式代理備好資安查核工具",
+      "summary": "提供 Claude Code 使用的資安技能與指令，整理漏洞研究模式，涵蓋授權測試、驗證、報告與證據整理。",
+      "highlights": [
+        "漏洞研究技能",
+        "驗證與報告流程",
+        "證據整理"
+      ],
+      "comment": "老闆，抓蟲也要有章法，先確認測試授權再出動！"
+    },
+    {
+      "rank": 2,
+      "repo": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "starsToday": 1529,
+      "starsTotal": 4226,
+      "language": "Python",
+      "tagline": "多代理協作整理研究論文",
+      "summary": "把研究構想與實驗紀錄整理成 LaTeX 論文，分工處理大綱、文獻、章節撰寫、內容修訂與圖表。",
+      "highlights": [
+        "多代理分工",
+        "文獻整合",
+        "圖表生成"
+      ],
+      "comment": "老闆，草稿有人幫忙整理，研究結論還是要親自把關喔！"
+    },
+    {
+      "rank": 3,
+      "repo": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "starsToday": 1264,
+      "starsTotal": 65191,
+      "language": "TypeScript",
+      "tagline": "手機也能接手程式代理工作",
+      "summary": "讓電腦上的程式代理共用操作介面，支援桌面、網頁與手機，方便查看任務、審核下一步及檢視程式差異。",
+      "highlights": [
+        "跨裝置接手",
+        "支援多種代理",
+        "內建差異檢視"
+      ],
+      "comment": "老闆，離開座位也能接手，但下班可別一直盯手機！"
+    },
+    {
+      "rank": 4,
+      "repo": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "starsToday": 1162,
+      "starsTotal": 29871,
+      "language": "TypeScript",
+      "tagline": "把試算表與文件放進自家產品",
+      "summary": "提供開源試算表、文件編輯與公式引擎，可透過 API 接上應用程式或代理；協作等部分擴充另有商業授權。",
+      "highlights": [
+        "試算表與文件",
+        "公式計算",
+        "可擴充架構"
+      ],
+      "comment": "老闆，辦公工具能自己組裝，記得先分清開源與付費範圍！"
+    },
+    {
+      "rank": 5,
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "starsToday": 1109,
+      "starsTotal": 306451,
+      "language": "JavaScript",
+      "tagline": "替程式代理建立工程工作流程",
+      "summary": "整合規劃、測試、審查、記憶與技能，協助程式代理建立可重複使用的工程流程，各平台支援程度不同。",
+      "highlights": [
+        "規劃與測試",
+        "記憶與技能",
+        "安全檢查"
+      ],
+      "comment": "老闆，工具箱很豐富，先挑用得到的，別一次全搬進來！"
+    }
+  ],
+  "quote": "工具備齊，判斷仍要到位。"
+}
